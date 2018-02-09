@@ -34,7 +34,7 @@ If you want to contribute, feel free to make a pull request.
 
 ## Free Online Books
 1. [Deep Learning Book](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (11/2016)
-2. [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (12/2017)
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (12/2017)
 
 ## Videos
 
