@@ -1,5 +1,7 @@
 # Deep Learning Resources
 
+>Trying to organise the vast majority of Deep Learning resources that I encounter. 
+
 # Table of Contents
 
 1. [Online Courses](#online-courses)
