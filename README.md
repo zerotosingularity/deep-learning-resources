@@ -17,7 +17,8 @@ If you want to contribute, feel free to make a pull request.
 9. [Communities](#communities)
 10. [Blogs](#blogs)
 11. [Jupyter notebooks](#jupyter-notebooks)
-12. [Build your own DL Machine](#build-your-own-dl-machine)
+12. [Build your own DL Machine](#build-your-own-dl-machine)]
+13. [Miscellaneous](#miscellaneous)
 
 ## Online Courses
 
@@ -77,5 +78,11 @@ TODO
 ## Build Your own DL Machine
 1. [Build a Deep Learning Rig for $800](https://towardsdatascience.com/build-a-deep-learning-rig-for-800-4434e21a424f)
 2. [Building your own deep learning box](https://towardsdatascience.com/building-your-own-deep-learning-box-47b918aea1eb)
-3. [The $1700 great Deep Learning box: Assembly, setup and benchmarks](The $1700 great Deep Learning box: Assembly, setup and benchmarks)
+3. [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
 4. [Build your 1st Deep Learning Rig](https://blog.prolego.io/build-your-1st-deep-learning-rig-6f749f63798d)
+5. [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning (Tim Dettmers)](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
+6. [GPU Benchmark](http://gpu.userbenchmark.com/)
+7. [Choosing Components for Personal Deep Learning Machine](https://medium.com/mlreview/choosing-components-for-personal-deep-learning-machine-56bae813e34a)
+
+## Miscellaneous
+1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
