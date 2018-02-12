@@ -17,7 +17,7 @@ If you want to contribute, feel free to make a pull request.
 9. [Communities](#communities)
 10. [Blogs](#blogs)
 11. [Jupyter notebooks](#jupyter-notebooks)
-12. [Build your own DL Machine](#build-your-own-dl-machine)]
+12. [Build your own DL Machine](#build-your-own-dl-machine)
 13. [Miscellaneous](#miscellaneous)
 
 ## Online Courses
