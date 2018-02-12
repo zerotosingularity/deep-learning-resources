@@ -18,7 +18,8 @@ If you want to contribute, feel free to make a pull request.
 10. [Blogs](#blogs)
 11. [Jupyter notebooks](#jupyter-notebooks)
 12. [Build your own DL Machine](#build-your-own-dl-machine)
-13. [Miscellaneous](#miscellaneous)
+13. [Infrastructure](#infrastructure)
+14. [Miscellaneous](#miscellaneous)
 
 ## Online Courses
 
@@ -83,6 +84,13 @@ TODO
 5. [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning (Tim Dettmers)](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
 6. [GPU Benchmark](http://gpu.userbenchmark.com/)
 7. [Choosing Components for Personal Deep Learning Machine](https://medium.com/mlreview/choosing-components-for-personal-deep-learning-machine-56bae813e34a)
+
+## Infrastructure
+1. [Paperspace](https://www.paperspace.com)
+2. [Crestle](https://www.crestle.com)
+3. [Microsoft Azure](https://portal.azure.com)
+4. [AWS Amazon](https://aws.amazon.com)
+5. [Google Compute Engine](https://cloud.google.com)
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
