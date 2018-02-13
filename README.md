@@ -64,7 +64,10 @@ TODO
 TODO
 
 ## Conferences
-TODO
+1. [NIPS](https://nips.cc/)
+2. [ICML](https://icml.cc/)
+3. [CVPS](http://cvpr2018.thecvf.com/)
+4. [ECCV](https://eccv2018.org/)
 
 ## Communities
 1. [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup)
