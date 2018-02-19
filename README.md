@@ -19,6 +19,7 @@ If you want to contribute, feel free to make a pull request.
 11. [Jupyter notebooks](#jupyter-notebooks)
 12. [Build your own DL Machine](#build-your-own-dl-machine)
 13. [Infrastructure](#infrastructure)
+14. [Resources from courses](#resources-from-courses)
 14. [Miscellaneous](#miscellaneous)
 
 ## Online Courses
@@ -95,6 +96,14 @@ TODO
 3. [Microsoft Azure](https://portal.azure.com)
 4. [AWS Amazon](https://aws.amazon.com)
 5. [Google Compute Engine](https://cloud.google.com)
+
+## Resources from courses:
+1. [Fast.ai](course.fast.ai)
+  * [Lesson 1]
+    * [Cyclical learning rates for training neural networks (paper)](http://arxiv.org/abs/1506.01186)
+    * [Visually explained convolutions (site)](http://setosa.io/ev/image-kernels/)
+    * [Sigmoid explained (online book chapter](http://neuralnetworksanddeeplearning.com/chap4.html)
+    * [Visualizing and understanding convolutional networks (paper](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
