@@ -106,6 +106,7 @@ TODO
     * [Sigmoid explained (online book chapter](http://neuralnetworksanddeeplearning.com/chap4.html)
     * [Visualizing and understanding convolutional networks (paper](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
     * [Snapshot emsembles](https://arxiv.org/abs/1704.00109)
+    * [Kaggle-cli](https://github.com/floydwch/kaggle-cli)
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
