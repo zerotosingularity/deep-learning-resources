@@ -100,6 +100,7 @@ TODO
 ## Resources from courses:
 1. [Fast.ai](course.fast.ai)
   * [Lesson 1]
+    * [Introduction to Resnet models](https://github.com/KaimingHe/deep-residual-networks)
     * [Cyclical learning rates for training neural networks (paper)](http://arxiv.org/abs/1506.01186)
     * [Visually explained convolutions (site)](http://setosa.io/ev/image-kernels/)
     * [Sigmoid explained (online book chapter](http://neuralnetworksanddeeplearning.com/chap4.html)
