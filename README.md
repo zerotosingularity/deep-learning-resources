@@ -104,7 +104,7 @@ TODO
     * [Cyclical learning rates for training neural networks (paper)](http://arxiv.org/abs/1506.01186)
     * [Visually explained convolutions (site)](http://setosa.io/ev/image-kernels/)
     * [Sigmoid explained (online book chapter](http://neuralnetworksanddeeplearning.com/chap4.html)
-    * [Visualizing and understanding convolutional networks (paper](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+    * [Visualizing and understanding convolutional networks (paper)](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
     * [Snapshot emsembles](https://arxiv.org/abs/1704.00109)
     * [Kaggle-cli](https://github.com/floydwch/kaggle-cli)
   * [Lesson 2](http://course.fast.ai/lessons/lesson2.html)
