@@ -99,7 +99,7 @@ TODO
 
 ## Resources from courses:
 1. [Fast.ai](course.fast.ai)
-  * [Lesson 1]
+  * [Lesson 1](http://course.fast.ai/lessons/lesson1.html)
     * [Introduction to Resnet models](https://github.com/KaimingHe/deep-residual-networks)
     * [Cyclical learning rates for training neural networks (paper)](http://arxiv.org/abs/1506.01186)
     * [Visually explained convolutions (site)](http://setosa.io/ev/image-kernels/)
@@ -107,7 +107,7 @@ TODO
     * [Visualizing and understanding convolutional networks (paper](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
     * [Snapshot emsembles](https://arxiv.org/abs/1704.00109)
     * [Kaggle-cli](https://github.com/floydwch/kaggle-cli)
-  * [Lesson 4]
+  * [Lesson 4](http://course.fast.ai/lessons/lesson4.html)
     * [Techburst: Improving the way we work with learning rate.](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
     * [validation sets](http://www.fast.ai/2017/11/13/validation-sets/)
     * [Teleported.in: The Cyclical Learning Rate technique](http://teleported.in/posts/cyclic-learning-rate/)
