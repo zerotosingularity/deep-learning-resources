@@ -109,6 +109,11 @@ TODO
     * [Kaggle-cli](https://github.com/floydwch/kaggle-cli)
   * [Lesson 4]
     * [Techburst: Improving the way we work with learning rate.](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
+    * [validation sets](http://www.fast.ai/2017/11/13/validation-sets/)
+    * [Teleported.in: The Cyclical Learning Rate technique](http://teleported.in/posts/cyclic-learning-rate/)
+    * [Transfer Learning Using Differential Rates](https://towardsdatascience.com/transfer-learning-using-differential-learning-rates-638455797f00)
+    * [Deep Learning, NLP, and Representations115](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+    
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
