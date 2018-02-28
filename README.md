@@ -20,7 +20,7 @@ If you want to contribute, feel free to make a pull request.
 12. [Build your own DL Machine](#build-your-own-dl-machine)
 13. [Infrastructure](#infrastructure)
 14. [Resources from courses](#resources-from-courses)
-14. [Miscellaneous](#miscellaneous)
+15. [Miscellaneous](#miscellaneous)
 
 ## Online Courses
 
@@ -107,6 +107,18 @@ TODO
     * [Visualizing and understanding convolutional networks (paper](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
     * [Snapshot emsembles](https://arxiv.org/abs/1704.00109)
     * [Kaggle-cli](https://github.com/floydwch/kaggle-cli)
+  * [Lesson 2](http://course.fast.ai/lessons/lesson2.html)
+    * [Summary of lesson 2](https://medium.com/@apiltamang/case-study-a-world-class-image-classifier-for-dogs-and-cats-err-anything-9cf39ee4690e) Mentioned in the notes of Lesson 3, but added here as well for completeness.
+  * [Lesson 3](http://course.fast.ai/lessons/lesson3.html)
+    * [AWS Setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md)
+    * [Tmux](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/tmux.md)
+    * [Notes on fast.ai](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools)
+    * [Summary of Lesson 2](https://medium.com/@apiltamang/case-study-a-world-class-image-classifier-for-dogs-and-cats-err-anything-9cf39ee4690e)
+    * [Learnng rate finder](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
+    * [Convolutional Neural Networks in 5 minutes](https://medium.com/@init_27/convolutional-neural-network-in-5-minutes-8f867eb9ca39)
+    * [Visualizing learning rate vs batch rate](https://miguel-data-sc.github.io/2017-11-05-first/)
+    * [Decoding the ResNet architecture](http://teleported.in/posts/decoding-resnet-architecture/)
+    * [A practitioners' guide to PyTorch](https://medium.com/@radekosmulski/a-practitioners-guide-to-pytorch-1d0f6a238040)
   * [Lesson 4](http://course.fast.ai/lessons/lesson4.html)
     * [Techburst: Improving the way we work with learning rate.](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
     * [validation sets](http://www.fast.ai/2017/11/13/validation-sets/)
