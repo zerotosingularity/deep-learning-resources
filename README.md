@@ -54,6 +54,8 @@ If you want to contribute, feel free to make a pull request.
 9. [Chainer](https://chainer.org/)
 10. [Deeplearning4j](https://deeplearning4j.org/)
 11. [Deeplearn.js](https://deeplearnjs.org/)
+12. [Fast.ai](https://github.com/fastai/fastai)
+13. [Lore](https://github.com/instacart/lore)
 
 ## Heros
 TODO
