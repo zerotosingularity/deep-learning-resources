@@ -20,7 +20,9 @@ If you want to contribute, feel free to make a pull request.
 12. [Build your own DL Machine](#build-your-own-dl-machine)
 13. [Infrastructure](#infrastructure)
 14. [Resources from courses](#resources-from-courses)
-15. [Miscellaneous](#miscellaneous)
+15. [Playgrounds](#playgrounds)
+16. [Miscellaneous](#miscellaneous)
+
 
 ## Online Courses
 
@@ -129,6 +131,8 @@ TODO
     * [Transfer Learning Using Differential Rates](https://towardsdatascience.com/transfer-learning-using-differential-learning-rates-638455797f00)
     * [Deep Learning, NLP, and Representations115](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
     
+## Playgrounds
+1. [Tensorflow Playground](http://playground.tensorflow.org/)
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
