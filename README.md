@@ -56,6 +56,7 @@ If you want to contribute, feel free to make a pull request.
 11. [Deeplearn.js](https://deeplearnjs.org/)
 12. [Fast.ai](https://github.com/fastai/fastai)
 13. [Lore](https://github.com/instacart/lore)
+14. [Brain.js](https://github.com/BrainJS)
 
 ## Heros
 TODO
