@@ -36,6 +36,7 @@ If you want to contribute, feel free to make a pull request.
 6. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/) - MIT
 7. [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) - MIT
 8. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html) Fei-Fei Li - Stanford
+9. [Google's Machine learning crash course](https://developers.google.com/machine-learning/crash-course/)
 
 ## Free Online Books
 1. [Deep Learning Book](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (11/2016)
