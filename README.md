@@ -133,6 +133,7 @@ TODO
     
 ## Playgrounds
 1. [Tensorflow Playground](http://playground.tensorflow.org/)
+2. [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
