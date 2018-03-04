@@ -102,6 +102,9 @@ TODO
 ## Jupyter Notebooks
 1. [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - François Chollet
 
+### Tips
+1. [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
 ## Build Your own DL Machine
 1. [Build a Deep Learning Rig for $800](https://towardsdatascience.com/build-a-deep-learning-rig-for-800-4434e21a424f)
 2. [Building your own deep learning box](https://towardsdatascience.com/building-your-own-deep-learning-box-47b918aea1eb)
