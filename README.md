@@ -131,6 +131,11 @@ TODO
     * [Teleported.in: The Cyclical Learning Rate technique](http://teleported.in/posts/cyclic-learning-rate/)
     * [Transfer Learning Using Differential Rates](https://towardsdatascience.com/transfer-learning-using-differential-learning-rates-638455797f00)
     * [Deep Learning, NLP, and Representations115](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+  [Lesson 5](http://course.fast.ai/lessons/lesson5.html)
+    * [Structured Deep Learning](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
+    * [Fun with small image data-sets](https://towardsdatascience.com/fun-with-small-image-data-sets-part-2-54d683ca8c96)
+    * TODO
+    * 
     
 ## Playgrounds
 1. [Tensorflow Playground](http://playground.tensorflow.org/)
