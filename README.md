@@ -104,6 +104,7 @@ TODO
 
 ### Tips
 1. [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+2. [Lesser known ways of using Jupyter Notebooks](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
 
 ## Build Your own DL Machine
 1. [Build a Deep Learning Rig for $800](https://towardsdatascience.com/build-a-deep-learning-rig-for-800-4434e21a424f)
