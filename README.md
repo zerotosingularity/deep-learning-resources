@@ -83,6 +83,12 @@ TODO
 
 ## Communities
 1. [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup)
+2. [Deep Learning](https://www.facebook.com/groups/DeepLearnng)
+3. [AI & Deep Learning Enthusiasts Worldwide](https://www.facebook.com/groups/AI.DL.Enthusiasts/)
+4. [Artificial Intelligence & Deep Learning - DeepNetGroup](https://www.facebook.com/groups/DeepNetGroup/)
+5. [Deep Learning / AI](https://www.facebook.com/groups/1738168866424224/)
+6. [Self-Driving car with Deep Learning](https://www.facebook.com/groups/sdcdl/)
+7. [Artificial intelligence & Deep learning](https://www.facebook.com/groups/AIStories/)
 
 ## Blogs
 1. [Zero to Singularity](https://www.zerotosingularity.com) - Adventures in Deep Learning
