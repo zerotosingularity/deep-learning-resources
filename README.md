@@ -12,7 +12,8 @@ If you want to contribute, feel free to make a pull request.
 4. [Papers](#papers)
 5. [Frameworks](#frameworks)
 6. [Heros](#heros)
-7. [Datasets & models](#datasets-and-models)
+7. [Datasets](#datasets)
+8. [models](#models)
 8. [Conferences](#conferences)
 9. [Communities](#communities)
 10. [Blogs](#blogs)
@@ -64,9 +65,12 @@ If you want to contribute, feel free to make a pull request.
 ## Heros
 TODO
 
-## Datasets and Models
+## Datasets 
+1. [Google Landmark detection](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html)
+2. 
+
+## Models
 1. [ModelDepot](https://modeldepot.io)
-TODO
 
 ## Papers
 TODO
@@ -79,7 +83,6 @@ TODO
 
 ## Communities
 1. [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup)
-2. 
 
 ## Blogs
 1. [Zero to Singularity](https://www.zerotosingularity.com) - Adventures in Deep Learning
