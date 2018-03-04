@@ -73,7 +73,7 @@ TODO
 
 ## Datasets 
 1. [Google Landmark detection](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html)
-2. 
+2. [Deeplearning.net / Datasets](http://deeplearning.net/datasets/)
 
 ## Models
 1. [ModelDepot](https://modeldepot.io)
