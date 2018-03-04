@@ -11,6 +11,7 @@ If you want to contribute, feel free to make a pull request.
 3. [Online Videos](#videos)
 4. [Papers](#papers)
 5. [Frameworks](#frameworks)
+6. [Python Libraries](#python-libraries)
 6. [Heros](#heros)
 7. [Datasets](#datasets)
 8. [models](#models)
@@ -61,6 +62,11 @@ If you want to contribute, feel free to make a pull request.
 12. [Fast.ai](https://github.com/fastai/fastai)
 13. [Lore](https://github.com/instacart/lore)
 14. [Brain.js](https://github.com/BrainJS)
+
+## Python Libraries
+1. [Numpy](http://www.numpy.org/)
+2. [Pandas: Python Data Analysis Library](https://pandas.pydata.org/)
+3. [seaborn: statistical data visualization](https://seaborn.pydata.org/)
 
 ## Heros
 TODO
