@@ -62,6 +62,9 @@ If you want to contribute, feel free to make a pull request.
 12. [Fast.ai](https://github.com/fastai/fastai)
 13. [Lore](https://github.com/instacart/lore)
 14. [Brain.js](https://github.com/BrainJS)
+15. [XGBoost](https://github.com/dmlc/xgboost)
+16. [Libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+17. [SciKit Learn](http://scikit-learn.org/)
 
 ## Python Libraries
 1. [Numpy](http://www.numpy.org/)
