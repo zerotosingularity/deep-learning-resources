@@ -79,6 +79,7 @@ If you want to contribute, feel free to make a pull request.
 1. [Numpy](http://www.numpy.org/)
 2. [Pandas: Python Data Analysis Library](https://pandas.pydata.org/)
 3. [seaborn: statistical data visualization](https://seaborn.pydata.org/)
+4. [PDL - Python Download library](https://pypi.python.org/pypi/pdl)
 
 ## Heros
 TODO
@@ -181,4 +182,3 @@ TODO
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
 2. [Python styleguide](https://www.python.org/dev/peps/pep-0008/)
-3. [PDL - Python Download library](https://pypi.python.org/pypi/pdl)
