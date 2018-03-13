@@ -86,6 +86,10 @@ TODO
 ## Datasets 
 1. [Google Landmark detection](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html)
 2. [Deeplearning.net / Datasets](http://deeplearning.net/datasets/)
+3. [Google Street View House Numbers (SVHN)](http://ufldl.stanford.edu/housenumbers/)
+4. [MNIST](http://yann.lecun.com/exdb/mnist/)
+5. [Tiny images](http://groups.csail.mit.edu/vision/TinyImages/)
+6. [One Hundred Million Creative Commons Flickr Images for Research ](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images)
 
 ## Models
 1. [ModelDepot](https://modeldepot.io)
