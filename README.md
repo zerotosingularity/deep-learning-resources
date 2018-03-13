@@ -43,6 +43,15 @@ If you want to contribute, feel free to make a pull request.
 ## Free Online Books
 1. [Deep Learning Book](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (11/2016)
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (12/2017)
+3. [Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
+4. [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+5. [Understanding Machine Learning: from Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+6. [Elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+7. [An introduction to statistical learning](http://www-bcf.usc.edu/~gareth/ISL/)
+8. [Foundations of data science](https://www.cs.cornell.edu/jeh/book.pdf)
+9. [A programmer's guide to data Mining](http://guidetodatamining.com/)
+10. [Mining massive datasets](http://mmds.org/)
+11. [Machine learning yearning](http://www.mlyearning.org/)
 
 ## Videos
 
