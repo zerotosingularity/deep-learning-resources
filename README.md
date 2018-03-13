@@ -167,3 +167,4 @@ TODO
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
+2. [Python styleguide](https://www.python.org/dev/peps/pep-0008/)
