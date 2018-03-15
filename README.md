@@ -39,10 +39,13 @@ If you want to contribute, feel free to make a pull request.
 7. [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) - MIT
 8. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html) Fei-Fei Li - Stanford
 9. [Google's Machine learning crash course](https://developers.google.com/machine-learning/crash-course/)
+10. [Google.ai](https://ai.google/education)
 
 ## Free Online Books
 1. [Deep Learning Book](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (11/2016)
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (12/2017)
+
+### Math & Statistics
 3. [Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
 4. [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 5. [Understanding Machine Learning: from Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
@@ -96,7 +99,8 @@ TODO
 1. [ModelDepot](https://modeldepot.io)
 
 ## Papers
-TODO
+1. [Machine Theory of Mind - DeepMind](https://arxiv.org/abs/1802.07740)
+
 
 ## Conferences
 1. [NIPS](https://nips.cc/)
@@ -115,9 +119,11 @@ TODO
 
 ## Blogs
 1. [Zero to Singularity](https://www.zerotosingularity.com) - Adventures in Deep Learning
+2. [Google Research](https://research.googleblog.com)
 
 ## Jupyter Notebooks
 1. [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - François Chollet
+2. [Jupyter Docker Deploy](https://github.com/jupyterhub/jupyterhub-deploy-docker)
 
 ### Tips
 1. [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
@@ -182,3 +188,4 @@ TODO
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
 2. [Python styleguide](https://www.python.org/dev/peps/pep-0008/)
+3. [Cycle-gan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
