@@ -23,7 +23,7 @@ If you want to contribute, feel free to make a pull request.
 13. [Infrastructure](#infrastructure)
 14. [Resources from courses](#resources-from-courses)
 15. [Playgrounds](#playgrounds)
-16. [Github Repo's](#github-repo's)
+16. [Github Repo's](#github-repo-s)
 17. [Miscellaneous](#miscellaneous)
 
 
