@@ -177,7 +177,9 @@ TODO
     * [Structured Deep Learning](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
     * [Fun with small image data-sets](https://towardsdatascience.com/fun-with-small-image-data-sets-part-2-54d683ca8c96)
     * TODO
-    * 
+  * [Lesson 6](http://course.fast.ai/lessons/lesson6.html)
+    * [Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/)
+    * [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737)
     
 ## Playgrounds
 1. [Tensorflow Playground](http://playground.tensorflow.org/)
