@@ -23,7 +23,8 @@ If you want to contribute, feel free to make a pull request.
 13. [Infrastructure](#infrastructure)
 14. [Resources from courses](#resources-from-courses)
 15. [Playgrounds](#playgrounds)
-16. [Miscellaneous](#miscellaneous)
+16. [Github Repo's](#github-repo's)
+17. [Miscellaneous](#miscellaneous)
 
 
 ## Online Courses
@@ -186,6 +187,8 @@ TODO
 2. [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
 3. [Google Collab](https://colab.research.google.com)
 4. [Azure Notebooks](https://notebooks.azure.com/) 
+
+## Github Repo's
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
