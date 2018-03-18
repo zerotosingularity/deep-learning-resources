@@ -78,6 +78,8 @@ If you want to contribute, feel free to make a pull request.
 15. [XGBoost](https://github.com/dmlc/xgboost)
 16. [Libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 17. [SciKit Learn](http://scikit-learn.org/)
+18. [Gluon](https://github.com/gluon-api/gluon-api)
+19. [Knet](https://github.com/denizyuret/Knet.jl)
 
 ## Python Libraries
 1. [Numpy](http://www.numpy.org/)
