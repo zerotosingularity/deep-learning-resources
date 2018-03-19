@@ -123,6 +123,21 @@ TODO
 ## Blogs
 1. [Zero to Singularity](https://www.zerotosingularity.com) - Adventures in Deep Learning
 2. [Google Research](https://research.googleblog.com)
+3. [Microsoft ML Blog](https://blogs.technet.microsoft.com/machinelearning/)
+4. [Apple ML Blog](https://machinelearning.apple.com/)
+5. [Foldl](http://www.foldl.me/)
+6. [Jonas Degrave](http://317070.github.io/)
+7. [xzh](http://xzh.me/posts/)
+8. [Andrew Gibiansky](http://andrew.gibiansky.com/archive.html)
+9. [Otoro](http://blog.otoro.net/)
+10. [No free hunch - The official Kaggle Blog](http://blog.kaggle.com/)
+11. [Calculated content](https://calculatedcontent.com/)
+12. [deeplearning.net](http://deeplearning.net/blog/)
+13. [Andrej Karpathy](https://medium.com/@karpathy/)
+14. [Colah](http://colah.github.io/)
+15. [WildML](http://www.wildml.com/)
+16. [I am trask](http://iamtrask.github.io/)
+17. 
 
 ## Jupyter Notebooks
 1. [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - François Chollet
