@@ -81,6 +81,7 @@ If you want to contribute, feel free to make a pull request.
 18. [Gluon](https://github.com/gluon-api/gluon-api)
 19. [Knet](https://github.com/denizyuret/Knet.jl)
 20. [TensorLayer](https://github.com/tensorlayer/tensorlayer)
+21. [Keras-Sharp](https://github.com/cesarsouza/keras-sharp)
 
 ## Python Libraries
 1. [Numpy](http://www.numpy.org/)
