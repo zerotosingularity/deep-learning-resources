@@ -80,6 +80,7 @@ If you want to contribute, feel free to make a pull request.
 17. [SciKit Learn](http://scikit-learn.org/)
 18. [Gluon](https://github.com/gluon-api/gluon-api)
 19. [Knet](https://github.com/denizyuret/Knet.jl)
+20. [TensorLayer](https://github.com/tensorlayer/tensorlayer)
 
 ## Python Libraries
 1. [Numpy](http://www.numpy.org/)
