@@ -105,6 +105,7 @@ TODO
 
 ## Papers
 1. [Machine Theory of Mind - DeepMind](https://arxiv.org/abs/1802.07740)
+2. [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 
 ## Conferences
