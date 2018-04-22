@@ -216,3 +216,4 @@ TODO
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
 2. [Python styleguide](https://www.python.org/dev/peps/pep-0008/)
 3. [Cycle-gan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+4. [Some snippets](https://github.com/zerotosingularity/snippets)
