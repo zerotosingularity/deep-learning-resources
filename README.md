@@ -7,7 +7,7 @@ If you want to contribute, feel free to make a pull request.
 # Table of Contents
 
 1. [Online Courses](#online-courses)
-2. [Free Online Books](#free-online-books)
+2. [Books](#books)
 3. [Online Videos](#videos)
 4. [Papers](#papers)
 5. [Frameworks](#frameworks)
@@ -42,9 +42,10 @@ If you want to contribute, feel free to make a pull request.
 9. [Google's Machine learning crash course](https://developers.google.com/machine-learning/crash-course/)
 10. [Google.ai](https://ai.google/education)
 
-## Free Online Books
+## Books
 1. [Deep Learning Book](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (11/2016)
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (12/2017)
+3. [Hands-on Machine Learning with Scikit-Learn and Tensorflow](http://shop.oreilly.com/product/0636920052289.do)
 
 ### Math & Statistics
 3. [Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
@@ -210,7 +211,8 @@ TODO
 4. [Azure Notebooks](https://notebooks.azure.com/) 
 
 ## Github Repositories
-1. TODO
+1. [Hands-on Machine Learning with Scikit-Learn & Tensorflow](https://github.com/ageron/handson-ml)
+2. [Open.ai gym](https://github.com/openai/gym)
 
 ## Miscellaneous
 1. [ec2-spotter](https://github.com/atramos/ec2-spotter)
