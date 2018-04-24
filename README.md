@@ -45,7 +45,7 @@ If you want to contribute, feel free to make a pull request.
 ## Books
 1. [Deep Learning Book](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (11/2016)
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (12/2017)
-3. [Hands-on Machine Learning with Scikit-Learn and Tensorflow](http://shop.oreilly.com/product/0636920052289.do)
+3. [Hands-on Machine Learning with Scikit-Learn and Tensorflow](http://shop.oreilly.com/product/0636920052289.do) - Aurélien Géron (3/2017)
 
 ### Math & Statistics
 3. [Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
