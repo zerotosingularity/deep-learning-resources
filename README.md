@@ -89,7 +89,8 @@ If you want to contribute, feel free to make a pull request.
 1. [Numpy](http://www.numpy.org/)
 2. [Pandas: Python Data Analysis Library](https://pandas.pydata.org/)
 3. [seaborn: statistical data visualization](https://seaborn.pydata.org/)
-4. [PDL - Python Download library](https://pypi.python.org/pypi/pdl)
+4. [Scikit-Learn](http://scikit-learn.org/)
+4. [PDL - Python Download library](https://github.com/zerotosingularity/pdl)
 
 ## Heros
 TODO
@@ -115,6 +116,7 @@ TODO
 2. [ICML](https://icml.cc/)
 3. [CVPS](http://cvpr2018.thecvf.com/)
 4. [ECCV](https://eccv2018.org/)
+5. [ICLR - International Conference on Learning Representations](https://iclr.cc/)
 
 ## Communities
 1. [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup)
