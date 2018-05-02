@@ -124,6 +124,10 @@ If you want to contribute, feel free to make a pull request.
 
 1. [Hands-on Machine Learning with Scikit-Learn & Tensorflow](https://github.com/ageron/handson-ml)
 2. [Open.ai gym](https://github.com/openai/gym)
+3. [deepmind/lab: A customisable 3D platform for agent-based AI research](https://github.com/deepmind/lab)
+4. [DeepMind](https://github.com/deepmind)
+5. [fast.ai](https://github.com/fastai)
+6. [OpenAI](https://github.com/openai)
 
 
 ## Infrastructure
