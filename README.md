@@ -49,6 +49,7 @@ If you want to contribute, feel free to make a pull request.
 16. [I am trask](http://iamtrask.github.io/)
 17. [Towards Data Science](https://towardsdatascience.com/)
 18. [Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
+19. [Research Blog](https://research.googleblog.com/)
 
 
 ## Books
