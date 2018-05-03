@@ -13,18 +13,20 @@ If you want to contribute, feel free to make a pull request.
 5. [Conferences](#conferences)
 6. [Datasets](#datasets)
 7. [Frameworks](#frameworks)
-8. [Github Repositories](#github-repositories)
-9. [Infrastructure](#infrastructure)
-10. [Jupyter Notebooks](#jupyter-notebooks)
-11. [Math & Statistics](#math-&-statistics)
-12. [Miscellaneous](#miscellaneous)
-13. [Models](#models)
-14. [Online Courses](#online-courses)
-15. [Papers](#papers)
-16. [Playgrounds](#playgrounds)
-17. [Python Libraries](#python-libraries)
-18. [Resources From Courses](#resources-from-courses)
-19. [Tips](#tips)
+8. [Gan](#gan)
+9. [Github Repositories](#github-repositories)
+10. [Infrastructure](#infrastructure)
+11. [Jupyter Notebooks](#jupyter-notebooks)
+12. [Math & Statistics](#math-&-statistics)
+13. [Miscellaneous](#miscellaneous)
+14. [Models](#models)
+15. [Online Courses](#online-courses)
+16. [Papers](#papers)
+17. [Playgrounds](#playgrounds)
+18. [Python Libraries](#python-libraries)
+19. [Research](#research)
+20. [Resources From Courses](#resources-from-courses)
+21. [Tips](#tips)
 
 
 ## Blogs
@@ -45,6 +47,8 @@ If you want to contribute, feel free to make a pull request.
 14. [Colah](http://colah.github.io/)
 15. [WildML](http://www.wildml.com/)
 16. [I am trask](http://iamtrask.github.io/)
+17. [Towards Data Science](https://towardsdatascience.com/)
+18. [Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 
 
 ## Books
@@ -120,6 +124,18 @@ If you want to contribute, feel free to make a pull request.
 22. [Pyro](https://eng.uber.com/pyro/)
 
 
+## Gan
+
+1. [Progressive Growing of GANs for Improved Quality, Stability, and Variation | Research](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)
+2. [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://tcwang0509.github.io/pix2pixHD/)
+3. [junyanz/CycleGAN: Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)
+4. [junyanz/pytorch-CycleGAN-and-pix2pix: Image-to-image translation in PyTorch (e.g. horse2zebra, edges2cats, and more)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+5. [junyanz/BicycleGAN: [NIPS 2017] Toward Multimodal Image-to-Image Translation](https://github.com/junyanz/BicycleGAN)
+6. [deepfakes/faceswap: Non official project based on original /r/Deepfakes thread. Many thanks to him!](https://github.com/deepfakes/faceswap)
+7. [faceswap-GAN/notes at master · shaoanlu/faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN/tree/master/notes)
+8. [yunjey/StarGAN: PyTorch Implementation of StarGAN - CVPR 2018](https://github.com/yunjey/StarGAN)
+
+
 ## Github Repositories
 
 1. [Hands-on Machine Learning with Scikit-Learn & Tensorflow](https://github.com/ageron/handson-ml)
@@ -128,6 +144,7 @@ If you want to contribute, feel free to make a pull request.
 4. [DeepMind](https://github.com/deepmind)
 5. [fast.ai](https://github.com/fastai)
 6. [OpenAI](https://github.com/openai)
+7. [deep-painterly-harmonization/README.md at master · luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization/blob/master/README.md)
 
 
 ## Infrastructure
@@ -207,6 +224,14 @@ If you want to contribute, feel free to make a pull request.
 3. [seaborn: statistical data visualization](https://seaborn.pydata.org/)
 4. [Scikit-Learn](http://scikit-learn.org/)
 5. [PDL - Python Download library](https://github.com/zerotosingularity/pdl)
+
+
+## Research
+
+1. [Facebook AI | Tools | Open Source Deep Learning Tools](https://facebook.ai/developers/tools)
+2. [Facebook AI Research – Facebook Research](https://research.fb.com/category/facebook-ai-research/)
+3. [AI & Deep Learning Publications & Researchers | NVIDIA Research](https://www.nvidia.com/en-us/research/machine-learning-artificial-intelligence/)
+4. [Berkeley Artificial Intelligence Research Lab](http://bair.berkeley.edu/)
 
 
 ## Resources From Courses
