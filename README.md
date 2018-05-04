@@ -6,27 +6,35 @@ If you want to contribute, feel free to make a pull request.
 
 # Table of Contents
 
-1. [Blogs](#blogs)
-2. [Books](#books)
-3. [Build Your Own Dl Machine](#build-your-own-dl-machine)
-4. [Communities](#communities)
-5. [Conferences](#conferences)
-6. [Datasets](#datasets)
-7. [Frameworks](#frameworks)
-8. [Gan](#gan)
-9. [Github Repositories](#github-repositories)
-10. [Infrastructure](#infrastructure)
-11. [Jupyter Notebooks](#jupyter-notebooks)
-12. [Math & Statistics](#math-&-statistics)
-13. [Miscellaneous](#miscellaneous)
-14. [Models](#models)
-15. [Online Courses](#online-courses)
-16. [Papers](#papers)
-17. [Playgrounds](#playgrounds)
-18. [Python Libraries](#python-libraries)
-19. [Research](#research)
-20. [Resources From Courses](#resources-from-courses)
-21. [Tips](#tips)
+1. [Benchmarking](#benchmarking)
+2. [Blogs](#blogs)
+3. [Books](#books)
+4. [Build Your Own Dl Machine](#build-your-own-dl-machine)
+5. [Communities](#communities)
+6. [Conferences](#conferences)
+7. [Datasets](#datasets)
+8. [Frameworks](#frameworks)
+9. [Gan](#gan)
+10. [Github Repositories](#github-repositories)
+11. [Infrastructure](#infrastructure)
+12. [Jupyter Notebooks](#jupyter-notebooks)
+13. [Math & Statistics](#math-&-statistics)
+14. [Miscellaneous](#miscellaneous)
+15. [Models](#models)
+16. [Online Courses](#online-courses)
+17. [Papers](#papers)
+18. [Playgrounds](#playgrounds)
+19. [Python Libraries](#python-libraries)
+20. [Research](#research)
+21. [Resources From Courses](#resources-from-courses)
+22. [Tips](#tips)
+
+
+## Benchmarking
+
+1. [RedditSota/state-of-the-art-result-for-machine-learning-problems: This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date. If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#supervised-learning)
+2. [EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.](https://github.com/EpistasisLab/penn-ml-benchmarks)
+3. [MLPerf](https://mlperf.org/)
 
 
 ## Blogs
