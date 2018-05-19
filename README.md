@@ -154,6 +154,7 @@ If you want to contribute, feel free to make a pull request.
 5. [fast.ai](https://github.com/fastai)
 6. [OpenAI](https://github.com/openai)
 7. [deep-painterly-harmonization/README.md at master · luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization/blob/master/README.md)
+8. [pytorch/examples: A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.](https://github.com/pytorch/examples)
 
 
 ## Infrastructure
