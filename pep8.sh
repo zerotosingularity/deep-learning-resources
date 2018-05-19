@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pep8 scripts #--exclude=fixtures
+pep8 scripts
