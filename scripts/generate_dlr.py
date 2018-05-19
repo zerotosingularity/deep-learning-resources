@@ -53,7 +53,11 @@ for tag in sorted_tag_list:
     sorted_tag_list[tag] = sorted(
         sorted_tag_list[tag], key=lambda k: k['CreatedAt'])
 
-dlr_generated = f"# Deep Learning Resources{DOUBLE_NEW_LINE}>Trying to organise the vast majority of Deep Learning resources that I encounter.{DOUBLE_NEW_LINE}If you want to contribute, feel free to make a pull request.{DOUBLE_NEW_LINE}# Table of Contents{DOUBLE_NEW_LINE}"
+dlr_generated = f"# Deep Learning Resources{DOUBLE_NEW_LINE}\
+> Trying to organise the vast majority of\
+ Deep Learning resources that I encounter.\
+{DOUBLE_NEW_LINE} If you want to contribute, feel free to make a pull request.\
+{DOUBLE_NEW_LINE}# Table of Contents{DOUBLE_NEW_LINE}"
 
 count = 1
 
