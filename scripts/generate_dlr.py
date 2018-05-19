@@ -59,6 +59,11 @@ def generate_dlr():
     > Trying to organise the vast majority of\
     Deep Learning resources that I encounter.\
     {DOUBLE_NEW_LINE} If you want to contribute, feel free to make a pull request.\
+    {DOUBLE_NEW_LINE} The Readme currently gets generated based on the Lnkr API\
+     from [Zero to Singularity](https://zerotosingularity.com) at\
+     [https: // lnkr.zerotosingularity.com](https: // lnkr.zerotosingularity.com)\
+     which is currently not publicly available yet. Feel free to contact me at\
+     jan@zerotosingularity.com if you would like to contribute.\
     {DOUBLE_NEW_LINE}# Table of Contents{DOUBLE_NEW_LINE}"
 
     count = 1
@@ -78,11 +83,10 @@ def generate_dlr():
         count = 1
 
         for url in sorted_tag_list[tag]:
-
             is_child = [t for t in url["tags"] if "child" in t["title"]]
             line = ""
 
-            if is_child > 0:
+            if len(is_child) > 0:
                 line = f'  * [{url["title"]}]({url["url"]}]\n'
             else:
                 line = f'{count}. [{url["title"]}]({url["url"]})\n'
