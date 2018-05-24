@@ -215,6 +215,8 @@
 10. [Google.ai](https://ai.google/education)
 11. [Machine Learning with TensorFlow on Google Cloud Platform | Coursera](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?action=enroll&authMode=signup#pricing)
 12. [Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course/)
+13. [Self-Driving Car | Udacity](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+14. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 
 
 ## Papers
