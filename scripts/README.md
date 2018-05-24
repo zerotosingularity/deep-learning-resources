@@ -34,7 +34,7 @@
 
 ## Benchmarking
 
-1. [RedditSota/state-of-the-art-result-for-machine-learning-problems: This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date. If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#supervised-learning)
+1. [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#supervised-learning)
 2. [EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.](https://github.com/EpistasisLab/penn-ml-benchmarks)
 3. [MLPerf](https://mlperf.org/)
 
@@ -213,6 +213,8 @@
 8. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 9. [Google's Machine learning crash course](https://developers.google.com/machine-learning/crash-course/)
 10. [Google.ai](https://ai.google/education)
+11. [Machine Learning with TensorFlow on Google Cloud Platform | Coursera](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?action=enroll&authMode=signup#pricing)
+12. [Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course/)
 
 
 ## Papers
