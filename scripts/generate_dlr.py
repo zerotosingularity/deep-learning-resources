@@ -96,7 +96,7 @@ def generate_dlr():
 
         dlr_generated += DOUBLE_NEW_LINE
 
-    new_dlr = open("README.md", "w")
+    new_dlr = open("../README.md", "w")
     new_dlr.write(dlr_generated)
 
 
