@@ -1,8 +1,10 @@
 # Deep Learning Resources
 
->Trying to organise the vast majority of Deep Learning resources that I encounter.
+    > Trying to organise the vast majority of    Deep Learning resources that I encounter.    
 
-If you want to contribute, feel free to make a pull request.
+ If you want to contribute, feel free to make a pull request.    
+
+ The Readme currently gets generated based on the Lnkr API     from [Zero to Singularity](https://zerotosingularity.com) at     [https: // lnkr.zerotosingularity.com](https: // lnkr.zerotosingularity.com)     which is currently not publicly available yet. Feel free to contact me at     jan@zerotosingularity.com if you would like to contribute.    
 
 # Table of Contents
 
@@ -32,7 +34,7 @@ If you want to contribute, feel free to make a pull request.
 
 ## Benchmarking
 
-1. [RedditSota/state-of-the-art-result-for-machine-learning-problems: This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date. If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#supervised-learning)
+1. [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#supervised-learning)
 2. [EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.](https://github.com/EpistasisLab/penn-ml-benchmarks)
 3. [MLPerf](https://mlperf.org/)
 
@@ -155,6 +157,8 @@ If you want to contribute, feel free to make a pull request.
 6. [OpenAI](https://github.com/openai)
 7. [deep-painterly-harmonization/README.md at master · luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization/blob/master/README.md)
 8. [pytorch/examples: A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.](https://github.com/pytorch/examples)
+9. [NervanaSystems/nlp-architect: NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](https://github.com/NervanaSystems/nlp-architect)
+10. [Nervana](https://github.com/NervanaSystems)
 
 
 ## Infrastructure
@@ -211,6 +215,11 @@ If you want to contribute, feel free to make a pull request.
 8. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 9. [Google's Machine learning crash course](https://developers.google.com/machine-learning/crash-course/)
 10. [Google.ai](https://ai.google/education)
+11. [Machine Learning with TensorFlow on Google Cloud Platform | Coursera](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?action=enroll&authMode=signup#pricing)
+12. [Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course/)
+13. [Self-Driving Car | Udacity](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+14. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+15. [AI School](https://aischool.microsoft.com/learning-paths)
 
 
 ## Papers
