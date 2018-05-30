@@ -107,6 +107,7 @@
 3. [MNIST](http://yann.lecun.com/exdb/mnist/)
 4. [Tiny images](http://groups.csail.mit.edu/vision/TinyImages/)
 5. [One Hundred Million Creative Commons Flickr Images for Research](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images)
+6. [Text REtrieval Conference (TREC) Data - English Test Questions (Topics) File List](https://trec.nist.gov/data/topics_eng/)
 
 
 ## Frameworks
@@ -133,6 +134,8 @@
 20. [TensorLayer](https://github.com/tensorlayer/tensorlayer)
 21. [Keras-Sharp](https://github.com/cesarsouza/keras-sharp)
 22. [Pyro](https://eng.uber.com/pyro/)
+23. [GitHub - OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+24. [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
 
 
 ## Gan
@@ -145,6 +148,8 @@
 6. [deepfakes/faceswap: Non official project based on original /r/Deepfakes thread. Many thanks to him!](https://github.com/deepfakes/faceswap)
 7. [faceswap-GAN/notes at master · shaoanlu/faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN/tree/master/notes)
 8. [yunjey/StarGAN: PyTorch Implementation of StarGAN - CVPR 2018](https://github.com/yunjey/StarGAN)
+9. [Meow Generator – Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/cats/)
+10. [Meow Generator – Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/cats/)
 
 
 ## Github Repositories
@@ -159,6 +164,8 @@
 8. [pytorch/examples: A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.](https://github.com/pytorch/examples)
 9. [NervanaSystems/nlp-architect: NLP Architect by Intel AI Lab: Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](https://github.com/NervanaSystems/nlp-architect)
 10. [Nervana](https://github.com/NervanaSystems)
+11. [zhixuhao/unet: unet for image segmentation](https://github.com/zhixuhao/unet)
+12. [google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.](https://github.com/google/python-fire)
 
 
 ## Infrastructure
@@ -226,6 +233,8 @@
 
 1. [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 2. [Machine Theory of Mind - DeepMind](https://arxiv.org/abs/1802.07740)
+3. [[1801.06146] Universal Language Model Fine-tuning for Text ... - arXiv](https://arxiv.org/abs/1801.06146)
+4. [A disciplined approach to neural network hyper-parameters: Part 1 ...](https://arxiv.org/abs/1803.09820)
 
 
 ## Playgrounds
