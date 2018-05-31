@@ -28,8 +28,9 @@
 18. [Playgrounds](#playgrounds)
 19. [Python Libraries](#python-libraries)
 20. [Research](#research)
-21. [Resources From Courses](#resources-from-courses)
-22. [Tips](#tips)
+21. [Resnet](#resnet)
+22. [Resources From Courses](#resources-from-courses)
+23. [Tips](#tips)
 
 
 ## Benchmarking
@@ -108,6 +109,9 @@
 4. [Tiny images](http://groups.csail.mit.edu/vision/TinyImages/)
 5. [One Hundred Million Creative Commons Flickr Images for Research](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images)
 6. [Text REtrieval Conference (TREC) Data - English Test Questions (Topics) File List](https://trec.nist.gov/data/topics_eng/)
+7. [Translation Task - EMNLP 2015 Tenth Workshop on Statistical Machine Translation](http://www.statmt.org/wmt15/translation-task.html)
+8. [VGG-16](http://www.vlfeat.org/matconvnet/pretrained/)
+9. [Pretrained CNNs - MatConvNet](http://www.vlfeat.org/matconvnet/pretrained/)
 
 
 ## Frameworks
@@ -166,6 +170,10 @@
 10. [Nervana](https://github.com/NervanaSystems)
 11. [zhixuhao/unet: unet for image segmentation](https://github.com/zhixuhao/unet)
 12. [google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.](https://github.com/google/python-fire)
+13. [google/sentencepiece: Unsupervised text tokenizer for Neural Network-based text generation.](https://github.com/google/sentencepiece)
+14. [autogenerating test data along with arranging it in the directories that are required for lesson 163](https://github.com/boxabirds/fastai-helpers)
+15. [salesforce/awd-lstm-lm: LSTM and QRNN Language Model Toolkit for PyTorch](https://github.com/salesforce/awd-lstm-lm)
+16. [KaimingHe/deep-residual-networks: Deep Residual Learning for Image Recognition](https://github.com/KaimingHe/deep-residual-networks)
 
 
 ## Infrastructure
@@ -227,6 +235,11 @@
 13. [Self-Driving Car | Udacity](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 14. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 15. [AI School](https://aischool.microsoft.com/learning-paths)
+16. [Reviews for Machine Learning from Coursera | Class Central](https://www.class-central.com/course/coursera-machine-learning-835)
+17. [Reviews for 6.S191: Introduction to Deep Learning from Massachusetts Institute of Technology | Class Central](https://www.class-central.com/course/6-s191-introduction-to-deep-learning-8083)
+18. [Salesforce Einstein Discovery - Easy AI and Machine Learning | Udemy](https://www.udemy.com/ai-data-science/)
+19. [Artificial Intelligence (AI) | edX](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-2)
+20. [Artificial Intelligence A-Z™: Learn How To Build An AI | Udemy](https://www.udemy.com/artificial-intelligence-az/?siteID=vedj0cWlu2Y-VWiOKji3DFYtzMo7Xm54ww&LSNPUBID=vedj0cWlu2Y)
 
 
 ## Papers
@@ -260,6 +273,30 @@
 2. [Facebook AI Research – Facebook Research](https://research.fb.com/category/facebook-ai-research/)
 3. [AI & Deep Learning Publications & Researchers | NVIDIA Research](https://www.nvidia.com/en-us/research/machine-learning-artificial-intelligence/)
 4. [Berkeley Artificial Intelligence Research Lab](http://bair.berkeley.edu/)
+
+
+## Resnet
+
+1. [http://arxiv.org/abs/1512.03385](http://arxiv.org/abs/1512.03385)
+2. [blog](http://torch.ch/blog/2016/02/04/resnets.html)
+3. [code](https://github.com/facebook/fb.resnet.torch)
+4. [http://image-net.org/challenges/LSVRC/2015/](http://image-net.org/challenges/LSVRC/2015/)
+5. [COCO](http://mscoco.org/dataset/#detections-challenge2015)
+6. [https://github.com/KaimingHe/resnet-1k-layers](https://github.com/KaimingHe/resnet-1k-layers)
+7. [VGG-16](http://www.vlfeat.org/matconvnet/pretrained/)
+8. [Training and investigating Residual Nets](http://torch.ch/blog/2016/02/04/resnets.html)
+9. [Deep Residual Learning for Image Recognition](https://github.com/gcr/torch-residual-networks)
+10. [ResNet training in Torch](https://github.com/facebook/fb.resnet.torch)
+11. [Deep Residual learning - paper implementation](https://github.com/Lasagne/Recipes/tree/master/papers/deep_residual_learning)
+12. [implementation of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
+13. [Residual networks in torch (MNIST 100 layers)](https://deepmlblog.wordpress.com/2016/01/05/residual-networks-in-torch-mnist/)
+14. [NOAA Right Whale Recognition, Winner's Interview](http://blog.kaggle.com/2016/02/04/noaa-right-whale-recognition-winners-interview-2nd-place-felix-lau/)
+15. [Using neon for Scene Recognition: Mini-Places2](http://www.nervanasys.com/using-neon-for-scene-recognition-mini-places2/)
+16. [Matlab (MatConvNet) implementation of "Deep Residual Learning for Image Recognition"](https://github.com/suhangpro/matresnet)
+17. [imagenet-resnet.py](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet)
+18. [keras-resnet](https://github.com/raghakot/keras-resnet)
+19. [ImageNet ILSVRC classification](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification)
+20. [ResNet in TensorFlow](https://github.com/ry/tensorflow-resnet)
 
 
 ## Resources From Courses
