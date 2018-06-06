@@ -155,6 +155,9 @@
 8. [yunjey/StarGAN: PyTorch Implementation of StarGAN - CVPR 2018](https://github.com/yunjey/StarGAN)
 9. [Meow Generator – Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/cats/)
 10. [Meow Generator – Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/cats/)
+11. [Microsoft researchers build an AI that draws what you tell it to](https://blogs.microsoft.com/ai/drawing-ai/)
+12. [junyanz/iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN)
+13. [[1701.07875] Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 
 
 ## Github Repositories
@@ -254,6 +257,7 @@
 7. [1704.00109.pdf](https://arxiv.org/pdf/1704.00109.pdf)
 8. [[1704.04861] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 9. [Deep Video Portraits](https://arxiv.org/pdf/1805.11714.pdf)
+10. [[1511.06434] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 
 
 ## Playgrounds
