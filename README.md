@@ -140,6 +140,7 @@
 22. [Pyro](https://eng.uber.com/pyro/)
 23. [GitHub - OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI)
 24. [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
+25. [Create ML | Apple Developer Documentation](https://developer.apple.com/documentation/create_ml)
 
 
 ## Gan
@@ -248,6 +249,11 @@
 2. [Machine Theory of Mind - DeepMind](https://arxiv.org/abs/1802.07740)
 3. [[1801.06146] Universal Language Model Fine-tuning for Text ... - arXiv](https://arxiv.org/abs/1801.06146)
 4. [A disciplined approach to neural network hyper-parameters: Part 1 ...](https://arxiv.org/abs/1803.09820)
+5. [[1311.2901] Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
+6. [[1506.01186] Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
+7. [1704.00109.pdf](https://arxiv.org/pdf/1704.00109.pdf)
+8. [[1704.04861] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+9. [Deep Video Portraits](https://arxiv.org/pdf/1805.11714.pdf)
 
 
 ## Playgrounds
