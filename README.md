@@ -61,6 +61,7 @@
 17. [Towards Data Science](https://towardsdatascience.com/)
 18. [Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 19. [Research Blog](https://research.googleblog.com/)
+20. [Distill — Latest articles about machine learning](https://distill.pub/)
 
 
 ## Books
@@ -178,6 +179,8 @@
 14. [autogenerating test data along with arranging it in the directories that are required for lesson 163](https://github.com/boxabirds/fastai-helpers)
 15. [salesforce/awd-lstm-lm: LSTM and QRNN Language Model Toolkit for PyTorch](https://github.com/salesforce/awd-lstm-lm)
 16. [KaimingHe/deep-residual-networks: Deep Residual Learning for Image Recognition](https://github.com/KaimingHe/deep-residual-networks)
+17. [MichalDanielDobrzanski/DeepLearningPython35: neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support](https://github.com/MichalDanielDobrzanski/DeepLearningPython35)
+18. [mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 
 ## Infrastructure
@@ -258,6 +261,8 @@
 8. [[1704.04861] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 9. [Deep Video Portraits](https://arxiv.org/pdf/1805.11714.pdf)
 10. [[1511.06434] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+11. [[1603.07285] A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
+12. [[1806.01610] Generative Reversible Networks](https://arxiv.org/abs/1806.01610)
 
 
 ## Playgrounds
