@@ -19,18 +19,19 @@
 9. [Gan](#gan)
 10. [Github Repositories](#github-repositories)
 11. [Infrastructure](#infrastructure)
-12. [Jupyter Notebooks](#jupyter-notebooks)
-13. [Math & Statistics](#math-&-statistics)
-14. [Miscellaneous](#miscellaneous)
-15. [Models](#models)
-16. [Online Courses](#online-courses)
-17. [Papers](#papers)
-18. [Playgrounds](#playgrounds)
-19. [Python Libraries](#python-libraries)
-20. [Research](#research)
-21. [Resnet](#resnet)
-22. [Resources From Courses](#resources-from-courses)
-23. [Tips](#tips)
+12. [Journalism](#journalism)
+13. [Jupyter Notebooks](#jupyter-notebooks)
+14. [Math & Statistics](#math-&-statistics)
+15. [Miscellaneous](#miscellaneous)
+16. [Models](#models)
+17. [Online Courses](#online-courses)
+18. [Papers](#papers)
+19. [Playgrounds](#playgrounds)
+20. [Python Libraries](#python-libraries)
+21. [Research](#research)
+22. [Resnet](#resnet)
+23. [Resources From Courses](#resources-from-courses)
+24. [Tips](#tips)
 
 
 ## Benchmarking
@@ -181,6 +182,10 @@
 16. [KaimingHe/deep-residual-networks: Deep Residual Learning for Image Recognition](https://github.com/KaimingHe/deep-residual-networks)
 17. [MichalDanielDobrzanski/DeepLearningPython35: neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support](https://github.com/MichalDanielDobrzanski/DeepLearningPython35)
 18. [mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"](https://github.com/mnielsen/neural-networks-and-deep-learning)
+19. [deeppomf/DeepLearningAnimePapers: A list of papers and other resources on deep learning with anime style images.](https://github.com/deeppomf/DeepLearningAnimePapers)
+20. [FavoritePapers/image_generation.md at master · SeitaroShinagawa/FavoritePapers](https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/image_generation.md)
+21. [PeterTor/sparse_convolution: sparse convolution Implementation](https://github.com/PeterTor/sparse_convolution)
+22. [general-deep-image-completion/README.md at master · adamstseng/general-deep-image-completion](https://github.com/adamstseng/general-deep-image-completion/blob/master/README.md)
 
 
 ## Infrastructure
@@ -190,6 +195,11 @@
 3. [Microsoft Azure](https://portal.azure.com/)
 4. [AWS Amazon](https://aws.amazon.com/)
 5. [Google Compute Engine](https://cloud.google.com/)
+
+
+## Journalism
+
+1. [Hello World - Bloomberg](https://www.bloomberg.com/hello-world)
 
 
 ## Jupyter Notebooks
@@ -263,6 +273,7 @@
 10. [[1511.06434] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 11. [[1603.07285] A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 12. [[1806.01610] Generative Reversible Networks](https://arxiv.org/abs/1806.01610)
+13. [[1803.07422] Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
 
 
 ## Playgrounds
