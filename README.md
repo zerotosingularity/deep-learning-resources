@@ -28,10 +28,12 @@
 18. [Papers](#papers)
 19. [Playgrounds](#playgrounds)
 20. [Python Libraries](#python-libraries)
-21. [Research](#research)
-22. [Resnet](#resnet)
-23. [Resources From Courses](#resources-from-courses)
-24. [Tips](#tips)
+21. [Reinforcement Learning](#reinforcement-learning)
+22. [Research](#research)
+23. [Resnet](#resnet)
+24. [Resources From Courses](#resources-from-courses)
+25. [Tips](#tips)
+26. [Tools](#tools)
 
 
 ## Benchmarking
@@ -101,6 +103,7 @@
 3. [CVPS](http://cvpr2018.thecvf.com/)
 4. [ECCV](https://eccv2018.org/)
 5. [ICLR - International Conference on Learning Representations](https://iclr.cc/)
+6. [CVPR2018](http://cvpr2018.thecvf.com/)
 
 
 ## Datasets
@@ -143,6 +146,7 @@
 23. [GitHub - OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI)
 24. [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
 25. [Create ML | Apple Developer Documentation](https://developer.apple.com/documentation/create_ml)
+26. [apple/turicreate: Turi Create simplifies the development of custom machine learning models.](https://github.com/apple/turicreate)
 
 
 ## Gan
@@ -274,6 +278,8 @@
 11. [[1603.07285] A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
 12. [[1806.01610] Generative Reversible Networks](https://arxiv.org/abs/1806.01610)
 13. [[1803.07422] Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
+14. [1712.00080.pdf](https://arxiv.org/pdf/1712.00080.pdf)
+15. [NVIDIA SPLATNet Research Paper Wins a Major CVPR 2018 Award - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/nvidia-splatnet-research-paper-wins-a-major-cvpr-2018-award/)
 
 
 ## Playgrounds
@@ -293,12 +299,18 @@
 5. [PDL - Python Download library](https://github.com/zerotosingularity/pdl)
 
 
+## Reinforcement Learning
+
+1. [Reinforcement Learning from scratch – Insight Data](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
+
+
 ## Research
 
 1. [Facebook AI | Tools | Open Source Deep Learning Tools](https://facebook.ai/developers/tools)
 2. [Facebook AI Research – Facebook Research](https://research.fb.com/category/facebook-ai-research/)
 3. [AI & Deep Learning Publications & Researchers | NVIDIA Research](https://www.nvidia.com/en-us/research/machine-learning-artificial-intelligence/)
 4. [Berkeley Artificial Intelligence Research Lab](http://bair.berkeley.edu/)
+5. [Artificial Intelligence Archives - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/category/artificial-intelligence/)
 
 
 ## Resnet
@@ -365,5 +377,14 @@
 
 1. [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 2. [Lesser known ways of using Jupyter Notebooks](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
+
+
+## Tools
+
+1. [NVIDIA Container Runtime and Orchestrators | NVIDIA Developer](https://developer.nvidia.com/kubernetes-gpu)
+2. [Introducing Apex: PyTorch Extension with Tools to Realize the Power of Tensor Cores - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/introducing-apex-pytorch-extension-with-tools-to-realize-the-power-of-tensor-cores/)
+3. [Download DeepStream SDK 2.0 Today to Develop Scalable Video Analytics Applications - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/download-deepstream-sdk-2-0-today-to-develop-scalable-video-analytics-applications/)
+4. [Announcing NVIDIA DALI and NVIDIA nvJPEG - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/announcing-nvidia-dali-and-nvidia-nvjpeg/)
+5. [NVIDIA Releases TensorRT 4 - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/nvidia-releases-tensorrt-4/)
 
 
