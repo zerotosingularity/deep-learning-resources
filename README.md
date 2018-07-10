@@ -190,6 +190,7 @@
 20. [FavoritePapers/image_generation.md at master · SeitaroShinagawa/FavoritePapers](https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/image_generation.md)
 21. [PeterTor/sparse_convolution: sparse convolution Implementation](https://github.com/PeterTor/sparse_convolution)
 22. [general-deep-image-completion/README.md at master · adamstseng/general-deep-image-completion](https://github.com/adamstseng/general-deep-image-completion/blob/master/README.md)
+23. [uber/horovod: Distributed training framework for TensorFlow, Keras, and PyTorch.](https://github.com/uber/horovod)
 
 
 ## Infrastructure
@@ -281,6 +282,7 @@
 14. [1712.00080.pdf](https://arxiv.org/pdf/1712.00080.pdf)
 15. [NVIDIA SPLATNet Research Paper Wins a Major CVPR 2018 Award - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/nvidia-splatnet-research-paper-wins-a-major-cvpr-2018-award/)
 16. [Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization](https://arxiv.org/abs/1805.12302)
+17. [1803.09820.pdf](https://arxiv.org/pdf/1803.09820.pdf)
 
 
 ## Playgrounds
