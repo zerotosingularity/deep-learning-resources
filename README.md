@@ -200,6 +200,7 @@
 3. [Microsoft Azure](https://portal.azure.com/)
 4. [AWS Amazon](https://aws.amazon.com/)
 5. [Google Compute Engine](https://cloud.google.com/)
+6. [Infrastructure for Deep Learning](https://blog.openai.com/infrastructure-for-deep-learning/)
 
 
 ## Journalism
