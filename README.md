@@ -191,6 +191,8 @@
 21. [PeterTor/sparse_convolution: sparse convolution Implementation](https://github.com/PeterTor/sparse_convolution)
 22. [general-deep-image-completion/README.md at master · adamstseng/general-deep-image-completion](https://github.com/adamstseng/general-deep-image-completion/blob/master/README.md)
 23. [uber/horovod: Distributed training framework for TensorFlow, Keras, and PyTorch.](https://github.com/uber/horovod)
+24. [wookayin/gpustat: 📊 A simple command-line utility for querying and monitoring GPU status](https://github.com/wookayin/gpustat)
+25. [Model Zoo · BVLC/caffe Wiki](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 
 ## Infrastructure
