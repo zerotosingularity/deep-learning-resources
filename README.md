@@ -164,6 +164,7 @@
 11. [Microsoft researchers build an AI that draws what you tell it to](https://blogs.microsoft.com/ai/drawing-ai/)
 12. [junyanz/iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN)
 13. [[1701.07875] Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+14. [Generative Adversarial Networks — A Theoretical Walk-Through.](https://medium.com/@samramasinghe/generative-adversarial-networks-a-theoretical-walk-through-5889d5a8f2bb)
 
 
 ## Github Repositories
@@ -193,6 +194,7 @@
 23. [uber/horovod: Distributed training framework for TensorFlow, Keras, and PyTorch.](https://github.com/uber/horovod)
 24. [wookayin/gpustat: 📊 A simple command-line utility for querying and monitoring GPU status](https://github.com/wookayin/gpustat)
 25. [Model Zoo · BVLC/caffe Wiki](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+26. [ysh329/deep-learning-model-convertor: The convertor/conversion of deep learning models for different deep learning frameworks/softwares.](https://github.com/ysh329/deep-learning-model-convertor)
 
 
 ## Infrastructure
@@ -287,6 +289,7 @@
 15. [NVIDIA SPLATNet Research Paper Wins a Major CVPR 2018 Award - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/nvidia-splatnet-research-paper-wins-a-major-cvpr-2018-award/)
 16. [Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization](https://arxiv.org/abs/1805.12302)
 17. [1803.09820.pdf](https://arxiv.org/pdf/1803.09820.pdf)
+18. [Show, Attend and Tell: Neural Image CaptionGeneration with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 
 
 ## Playgrounds
