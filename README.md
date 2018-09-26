@@ -15,25 +15,26 @@
 5. [Communities](#communities)
 6. [Conferences](#conferences)
 7. [Datasets](#datasets)
-8. [Frameworks](#frameworks)
-9. [Gan](#gan)
-10. [Github Repositories](#github-repositories)
-11. [Infrastructure](#infrastructure)
-12. [Journalism](#journalism)
-13. [Jupyter Notebooks](#jupyter-notebooks)
-14. [Math & Statistics](#math-&-statistics)
-15. [Miscellaneous](#miscellaneous)
-16. [Models](#models)
-17. [Online Courses](#online-courses)
-18. [Papers](#papers)
-19. [Playgrounds](#playgrounds)
-20. [Python Libraries](#python-libraries)
-21. [Reinforcement Learning](#reinforcement-learning)
-22. [Research](#research)
-23. [Resnet](#resnet)
-24. [Resources From Courses](#resources-from-courses)
-25. [Tips](#tips)
-26. [Tools](#tools)
+8. [Docker](#docker)
+9. [Frameworks](#frameworks)
+10. [Gan](#gan)
+11. [Github Repositories](#github-repositories)
+12. [Infrastructure](#infrastructure)
+13. [Journalism](#journalism)
+14. [Jupyter Notebooks](#jupyter-notebooks)
+15. [Math & Statistics](#math-&-statistics)
+16. [Miscellaneous](#miscellaneous)
+17. [Models](#models)
+18. [Online Courses](#online-courses)
+19. [Papers](#papers)
+20. [Playgrounds](#playgrounds)
+21. [Python Libraries](#python-libraries)
+22. [Reinforcement Learning](#reinforcement-learning)
+23. [Research](#research)
+24. [Resnet](#resnet)
+25. [Resources From Courses](#resources-from-courses)
+26. [Tips](#tips)
+27. [Tools](#tools)
 
 
 ## Benchmarking
@@ -41,6 +42,8 @@
 1. [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#supervised-learning)
 2. [EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.](https://github.com/EpistasisLab/penn-ml-benchmarks)
 3. [MLPerf](https://mlperf.org/)
+4. [u39kun/deep-learning-benchmark: Deep Learning Benchmark for comparing the performance of DL frameworks, GPUs, and single vs half precision](https://github.com/u39kun/deep-learning-benchmark)
+5. [Benchmarks: Deep Learning Nvidia P100 vs V100 GPU | Xcelerit](https://www.xcelerit.com/computing-benchmarks/insights/benchmarks-deep-learning-nvidia-p100-vs-v100-gpu/)
 
 
 ## Blogs
@@ -83,6 +86,7 @@
 5. [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning (Tim Dettmers)](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
 6. [GPU Benchmark](http://gpu.userbenchmark.com/)
 7. [Choosing Components for Personal Deep Learning Machine](https://medium.com/mlreview/choosing-components-for-personal-deep-learning-machine-56bae813e34a)
+8. [Why building your own Deep Learning computer is 10x cheaper than AWS](https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-10x-cheaper-than-aws-b1c91b55ce8c)
 
 
 ## Communities
@@ -117,6 +121,14 @@
 7. [Translation Task - EMNLP 2015 Tenth Workshop on Statistical Machine Translation](http://www.statmt.org/wmt15/translation-task.html)
 8. [VGG-16](http://www.vlfeat.org/matconvnet/pretrained/)
 9. [Pretrained CNNs - MatConvNet](http://www.vlfeat.org/matconvnet/pretrained/)
+
+
+## Docker
+
+1. [Repository configuration | nvidia-docker](https://nvidia.github.io/nvidia-docker/)
+2. [floydhub/dl-docker: An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)](https://github.com/floydhub/dl-docker)
+3. [Explore - Docker Hub](https://hub.docker.com/explore/)
+4. [Use nvidia-docker to create awesome Deep Learning Environments for R (or Python) PT I – Kai Lichtenberg](https://klichtenberg.com/?p=151)
 
 
 ## Frameworks
@@ -195,6 +207,8 @@
 24. [wookayin/gpustat: 📊 A simple command-line utility for querying and monitoring GPU status](https://github.com/wookayin/gpustat)
 25. [Model Zoo · BVLC/caffe Wiki](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 26. [ysh329/deep-learning-model-convertor: The convertor/conversion of deep learning models for different deep learning frameworks/softwares.](https://github.com/ysh329/deep-learning-model-convertor)
+27. [Microsoft/MMdnn: MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.](https://github.com/Microsoft/MMdnn)
+28. [ROCm-Developer-Tools/HIP: HIP : Convert CUDA to Portable C++ Code](https://github.com/ROCm-Developer-Tools/HIP)
 
 
 ## Infrastructure
@@ -290,6 +304,7 @@
 16. [Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization](https://arxiv.org/abs/1805.12302)
 17. [1803.09820.pdf](https://arxiv.org/pdf/1803.09820.pdf)
 18. [Show, Attend and Tell: Neural Image CaptionGeneration with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
+19. [Show, Attend and Tell: Neural Image CaptionGeneration with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 
 
 ## Playgrounds
