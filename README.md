@@ -121,6 +121,8 @@
 7. [Translation Task - EMNLP 2015 Tenth Workshop on Statistical Machine Translation](http://www.statmt.org/wmt15/translation-task.html)
 8. [VGG-16](http://www.vlfeat.org/matconvnet/pretrained/)
 9. [Pretrained CNNs - MatConvNet](http://www.vlfeat.org/matconvnet/pretrained/)
+10. [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
+11. [fast.ai Datasets](https://course.fast.ai/datasets)
 
 
 ## Docker
@@ -129,6 +131,7 @@
 2. [floydhub/dl-docker: An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)](https://github.com/floydhub/dl-docker)
 3. [Explore - Docker Hub](https://hub.docker.com/explore/)
 4. [Use nvidia-docker to create awesome Deep Learning Environments for R (or Python) PT I – Kai Lichtenberg](https://klichtenberg.com/?p=151)
+5. [Docker Tutorial 5: Nvidia-Docker 2.0 Installation in Ubuntu 18.04](https://medium.com/@sh.tsang/docker-tutorial-5-nvidia-docker-2-0-installation-in-ubuntu-18-04-cb80f17cac65)
 
 
 ## Frameworks
@@ -304,7 +307,6 @@
 16. [Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization](https://arxiv.org/abs/1805.12302)
 17. [1803.09820.pdf](https://arxiv.org/pdf/1803.09820.pdf)
 18. [Show, Attend and Tell: Neural Image CaptionGeneration with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
-19. [Show, Attend and Tell: Neural Image CaptionGeneration with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 
 
 ## Playgrounds
@@ -323,6 +325,7 @@
 3. [seaborn: statistical data visualization](https://seaborn.pydata.org/)
 4. [Scikit-Learn](http://scikit-learn.org/)
 5. [PDL - Python Download library](https://github.com/zerotosingularity/pdl)
+6. [Pyro](http://pyro.ai/)
 
 
 ## Reinforcement Learning
