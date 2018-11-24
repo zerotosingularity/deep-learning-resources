@@ -162,6 +162,7 @@
 24. [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
 25. [Create ML | Apple Developer Documentation](https://developer.apple.com/documentation/create_ml)
 26. [apple/turicreate: Turi Create simplifies the development of custom machine learning models.](https://github.com/apple/turicreate)
+27. [xmartlabs/Bender: Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.](https://github.com/xmartlabs/Bender)
 
 
 ## Gan
@@ -415,5 +416,6 @@
 3. [Download DeepStream SDK 2.0 Today to Develop Scalable Video Analytics Applications - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/download-deepstream-sdk-2-0-today-to-develop-scalable-video-analytics-applications/)
 4. [Announcing NVIDIA DALI and NVIDIA nvJPEG - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/announcing-nvidia-dali-and-nvidia-nvjpeg/)
 5. [NVIDIA Releases TensorRT 4 - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/nvidia-releases-tensorrt-4/)
+6. [lutzroeder/netron: Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/netron)
 
 
