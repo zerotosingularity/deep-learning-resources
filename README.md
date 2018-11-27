@@ -123,6 +123,7 @@
 9. [Pretrained CNNs - MatConvNet](http://www.vlfeat.org/matconvnet/pretrained/)
 10. [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 11. [fast.ai Datasets](https://course.fast.ai/datasets)
+12. [Tencent/tencent-ml-images: Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images?fbclid=IwAR15yoA39hFCerSTGJw4BIeGoF0lx--5WCUH-H_jGg-Nx5E05aubInAubrk)
 
 
 ## Docker
@@ -213,6 +214,8 @@
 26. [ysh329/deep-learning-model-convertor: The convertor/conversion of deep learning models for different deep learning frameworks/softwares.](https://github.com/ysh329/deep-learning-model-convertor)
 27. [Microsoft/MMdnn: MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.](https://github.com/Microsoft/MMdnn)
 28. [ROCm-Developer-Tools/HIP: HIP : Convert CUDA to Portable C++ Code](https://github.com/ROCm-Developer-Tools/HIP)
+29. [piiswrong/deep3d: Automatic 2D-to-3D Video Conversion with CNNs](https://github.com/piiswrong/deep3d)
+30. [Tencent/tencent-ml-images: Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images?fbclid=IwAR15yoA39hFCerSTGJw4BIeGoF0lx--5WCUH-H_jGg-Nx5E05aubInAubrk)
 
 
 ## Infrastructure
