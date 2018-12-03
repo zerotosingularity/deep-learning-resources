@@ -68,6 +68,7 @@
 18. [Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 19. [Research Blog](https://research.googleblog.com/)
 20. [Distill — Latest articles about machine learning](https://distill.pub/)
+21. [ML⚡️DL — AI to Hell! – Medium](https://medium.com/louis-dorard)
 
 
 ## Books
@@ -75,6 +76,12 @@
 1. [Deep Learning Book - Ian Goodfellow and Yoshua Bengio and Aaron Courville (11/2016)](http://www.deeplearningbook.org/)
 2. [Neural Networks and Deep Learning - Michael Nielsen (12/2017)](http://neuralnetworksanddeeplearning.com/)
 3. [Hands-on Machine Learning with Scikit-Learn and Tensorflow - Aurélien Géron (3/2017)](http://shop.oreilly.com/product/0636920052289.do)
+4. [Manning | Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+5. [Manning | Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
+6. [Manning | Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
+7. [Manning | Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
+8. [Manning | Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
+9. [Manning | GANs in Action](https://www.manning.com/books/gans-in-action)
 
 
 ## Build Your Own Dl Machine
@@ -216,6 +223,7 @@
 28. [ROCm-Developer-Tools/HIP: HIP : Convert CUDA to Portable C++ Code](https://github.com/ROCm-Developer-Tools/HIP)
 29. [piiswrong/deep3d: Automatic 2D-to-3D Video Conversion with CNNs](https://github.com/piiswrong/deep3d)
 30. [Tencent/tencent-ml-images: Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images?fbclid=IwAR15yoA39hFCerSTGJw4BIeGoF0lx--5WCUH-H_jGg-Nx5E05aubInAubrk)
+31. [t-SNE – Laurens van der Maaten](https://lvdmaaten.github.io/tsne/)
 
 
 ## Infrastructure
