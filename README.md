@@ -25,16 +25,17 @@
 15. [Math & Statistics](#math-&-statistics)
 16. [Miscellaneous](#miscellaneous)
 17. [Models](#models)
-18. [Online Courses](#online-courses)
-19. [Papers](#papers)
-20. [Playgrounds](#playgrounds)
-21. [Python Libraries](#python-libraries)
-22. [Reinforcement Learning](#reinforcement-learning)
-23. [Research](#research)
-24. [Resnet](#resnet)
-25. [Resources From Courses](#resources-from-courses)
-26. [Tips](#tips)
-27. [Tools](#tools)
+18. [Nlp](#nlp)
+19. [Online Courses](#online-courses)
+20. [Papers](#papers)
+21. [Playgrounds](#playgrounds)
+22. [Python Libraries](#python-libraries)
+23. [Reinforcement Learning](#reinforcement-learning)
+24. [Research](#research)
+25. [Resnet](#resnet)
+26. [Resources From Courses](#resources-from-courses)
+27. [Tips](#tips)
+28. [Tools](#tools)
 
 
 ## Benchmarking
@@ -272,6 +273,12 @@
 ## Models
 
 1. [ModelDepot](https://modeldepot.io/)
+
+
+## Nlp
+
+1. [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-bert/)
+2. [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)
 
 
 ## Online Courses
