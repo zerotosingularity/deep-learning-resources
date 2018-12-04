@@ -282,6 +282,10 @@
 2. [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)
 3. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-transformer/)
 4. [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+5. [Dissecting BERT Part 1: The Encoder – Dissecting BERT – Medium](https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3)
+6. [Dissecting BERT Appendix: The Decoder – Dissecting BERT – Medium](https://medium.com/dissecting-bert/dissecting-bert-appendix-the-decoder-3b86f66b0e5f)
+7. [The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0?fbclid=IwAR2tjdc8780h5TrD0wDXAu1lpxfhoPy_qK_VqCIl8ShU7mG_I0AbmGpotW8)
+8. [A Brief Overview of Attention Mechanism – SyncedReview – Medium](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
 
 
 ## Online Courses
@@ -353,6 +357,7 @@
 ## Reinforcement Learning
 
 1. [Reinforcement Learning from scratch – Insight Data](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
+2. [Spinning Up in Deep RL](https://blog.openai.com/spinning-up-in-deep-rl/)
 
 
 ## Research
