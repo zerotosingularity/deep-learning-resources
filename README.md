@@ -70,6 +70,7 @@
 19. [Research Blog](https://research.googleblog.com/)
 20. [Distill — Latest articles about machine learning](https://distill.pub/)
 21. [ML⚡️DL — AI to Hell! – Medium](https://medium.com/louis-dorard)
+22. [Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/)
 
 
 ## Books
@@ -279,6 +280,8 @@
 
 1. [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-bert/)
 2. [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)
+3. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-transformer/)
+4. [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 
 ## Online Courses
