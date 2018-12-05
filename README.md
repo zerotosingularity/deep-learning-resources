@@ -226,6 +226,7 @@
 29. [piiswrong/deep3d: Automatic 2D-to-3D Video Conversion with CNNs](https://github.com/piiswrong/deep3d)
 30. [Tencent/tencent-ml-images: Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images?fbclid=IwAR15yoA39hFCerSTGJw4BIeGoF0lx--5WCUH-H_jGg-Nx5E05aubInAubrk)
 31. [t-SNE – Laurens van der Maaten](https://lvdmaaten.github.io/tsne/)
+32. [TensorLayer Community](https://github.com/tensorlayer)
 
 
 ## Infrastructure
@@ -286,6 +287,7 @@
 6. [Dissecting BERT Appendix: The Decoder – Dissecting BERT – Medium](https://medium.com/dissecting-bert/dissecting-bert-appendix-the-decoder-3b86f66b0e5f)
 7. [The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0?fbclid=IwAR2tjdc8780h5TrD0wDXAu1lpxfhoPy_qK_VqCIl8ShU7mG_I0AbmGpotW8)
 8. [A Brief Overview of Attention Mechanism – SyncedReview – Medium](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
+9. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
 ## Online Courses
