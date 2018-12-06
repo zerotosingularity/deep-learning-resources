@@ -227,6 +227,9 @@
 30. [Tencent/tencent-ml-images: Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images?fbclid=IwAR15yoA39hFCerSTGJw4BIeGoF0lx--5WCUH-H_jGg-Nx5E05aubInAubrk)
 31. [t-SNE – Laurens van der Maaten](https://lvdmaaten.github.io/tsne/)
 32. [TensorLayer Community](https://github.com/tensorlayer)
+33. [PacktPublishing/Deep-Learning-with-Keras: Code repository for Deep Learning with Keras published by Packt](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
+34. [PacktPublishing/Getting-Started-with-TensorFlow: Getting Started with TensorFlow, published by Packt](https://github.com/PacktPublishing/Getting-Started-with-TensorFlow)
+35. [PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)
 
 
 ## Infrastructure
