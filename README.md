@@ -230,6 +230,7 @@
 33. [PacktPublishing/Deep-Learning-with-Keras: Code repository for Deep Learning with Keras published by Packt](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
 34. [PacktPublishing/Getting-Started-with-TensorFlow: Getting Started with TensorFlow, published by Packt](https://github.com/PacktPublishing/Getting-Started-with-TensorFlow)
 35. [PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)
+36. [A gallery of interesting Jupyter Notebooks · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 
 ## Infrastructure
