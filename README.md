@@ -231,6 +231,9 @@
 34. [PacktPublishing/Getting-Started-with-TensorFlow: Getting Started with TensorFlow, published by Packt](https://github.com/PacktPublishing/Getting-Started-with-TensorFlow)
 35. [PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)
 36. [A gallery of interesting Jupyter Notebooks · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+37. [facebookresearch/Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.](https://github.com/facebookresearch/Detectron)
+38. [matterport/Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
+39. [facebookresearch/DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/DensePose)
 
 
 ## Infrastructure
