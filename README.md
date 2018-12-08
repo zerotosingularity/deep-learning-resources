@@ -234,6 +234,7 @@
 37. [facebookresearch/Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.](https://github.com/facebookresearch/Detectron)
 38. [matterport/Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 39. [facebookresearch/DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/DensePose)
+40. [omni-us/squeezedet-keras: Keras implementation of the Squeeze Det Object Detection Deep Learning Framework](https://github.com/omni-us/squeezedet-keras)
 
 
 ## Infrastructure
