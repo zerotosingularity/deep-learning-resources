@@ -191,6 +191,9 @@
 12. [junyanz/iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN)
 13. [[1701.07875] Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 14. [Generative Adversarial Networks — A Theoretical Walk-Through.](https://medium.com/@samramasinghe/generative-adversarial-networks-a-theoretical-walk-through-5889d5a8f2bb)
+15. [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)
+16. [eriklindernoren/Keras-GAN: Keras implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/Keras-GAN)
+17. [eriklindernoren/PyTorch-GAN: PyTorch implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/PyTorch-GAN)
 
 
 ## Github Repositories
@@ -235,6 +238,9 @@
 38. [matterport/Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 39. [facebookresearch/DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/DensePose)
 40. [omni-us/squeezedet-keras: Keras implementation of the Squeeze Det Object Detection Deep Learning Framework](https://github.com/omni-us/squeezedet-keras)
+41. [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+42. [eriklindernoren/Keras-GAN: Keras implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/Keras-GAN)
+43. [eriklindernoren/PyTorch-GAN: PyTorch implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/PyTorch-GAN)
 
 
 ## Infrastructure
@@ -296,6 +302,8 @@
 7. [The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0?fbclid=IwAR2tjdc8780h5TrD0wDXAu1lpxfhoPy_qK_VqCIl8ShU7mG_I0AbmGpotW8)
 8. [A Brief Overview of Attention Mechanism – SyncedReview – Medium](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
 9. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+10. [Google AI Blog: Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
+11. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-transformer/)
 
 
 ## Online Courses
@@ -368,6 +376,7 @@
 
 1. [Reinforcement Learning from scratch – Insight Data](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
 2. [Spinning Up in Deep RL](https://blog.openai.com/spinning-up-in-deep-rl/)
+3. [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 
 
 ## Research
