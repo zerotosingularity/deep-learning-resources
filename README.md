@@ -241,6 +241,8 @@
 41. [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 42. [eriklindernoren/Keras-GAN: Keras implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/Keras-GAN)
 43. [eriklindernoren/PyTorch-GAN: PyTorch implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/PyTorch-GAN)
+44. [eriklindernoren/ML-From-Scratch: Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.](https://github.com/eriklindernoren/ML-From-Scratch)
+45. [zaidalyafeai/Notebooks: Machine learning notebooks in different subjects optimized to run in google collaboratory](https://github.com/zaidalyafeai/Notebooks)
 
 
 ## Infrastructure
