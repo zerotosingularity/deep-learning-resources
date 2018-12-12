@@ -243,6 +243,7 @@
 43. [eriklindernoren/PyTorch-GAN: PyTorch implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/PyTorch-GAN)
 44. [eriklindernoren/ML-From-Scratch: Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.](https://github.com/eriklindernoren/ML-From-Scratch)
 45. [zaidalyafeai/Notebooks: Machine learning notebooks in different subjects optimized to run in google collaboratory](https://github.com/zaidalyafeai/Notebooks)
+46. [facebookresearch/DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/DensePose)
 
 
 ## Infrastructure
