@@ -23,19 +23,20 @@
 13. [Journalism](#journalism)
 14. [Jupyter Notebooks](#jupyter-notebooks)
 15. [Math & Statistics](#math-&-statistics)
-16. [Miscellaneous](#miscellaneous)
-17. [Models](#models)
-18. [Nlp](#nlp)
-19. [Online Courses](#online-courses)
-20. [Papers](#papers)
-21. [Playgrounds](#playgrounds)
-22. [Python Libraries](#python-libraries)
-23. [Reinforcement Learning](#reinforcement-learning)
-24. [Research](#research)
-25. [Resnet](#resnet)
-26. [Resources From Courses](#resources-from-courses)
-27. [Tips](#tips)
-28. [Tools](#tools)
+16. [Media](#media)
+17. [Miscellaneous](#miscellaneous)
+18. [Models](#models)
+19. [Nlp](#nlp)
+20. [Online Courses](#online-courses)
+21. [Papers](#papers)
+22. [Playgrounds](#playgrounds)
+23. [Python Libraries](#python-libraries)
+24. [Reinforcement Learning](#reinforcement-learning)
+25. [Research](#research)
+26. [Resnet](#resnet)
+27. [Resources From Courses](#resources-from-courses)
+28. [Tips](#tips)
+29. [Tools](#tools)
 
 
 ## Benchmarking
@@ -71,6 +72,7 @@
 20. [Distill — Latest articles about machine learning](https://distill.pub/)
 21. [ML⚡️DL — AI to Hell! – Medium](https://medium.com/louis-dorard)
 22. [Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/)
+23. [Papers with Code : the latest in machine learning](https://www.paperswithcode.com/?fbclid=IwAR0RXOvf6hVcH0jayNxqeRpYXtI5iW3pHJP4AucSi5a7bDh_ifAr5Wi-t3k)
 
 
 ## Books
@@ -244,6 +246,7 @@
 44. [eriklindernoren/ML-From-Scratch: Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.](https://github.com/eriklindernoren/ML-From-Scratch)
 45. [zaidalyafeai/Notebooks: Machine learning notebooks in different subjects optimized to run in google collaboratory](https://github.com/zaidalyafeai/Notebooks)
 46. [facebookresearch/DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/DensePose)
+47. [NVIDIA/vid2vid: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.](https://github.com/NVIDIA/vid2vid)
 
 
 ## Infrastructure
@@ -279,6 +282,12 @@
 8. [A programmer's guide to data Mining](http://guidetodatamining.com/)
 9. [Mining massive datasets](http://mmds.org/)
 10. [Machine learning yearning](http://www.mlyearning.org/)
+
+
+## Media
+
+1. [Transforming Standard Video Into Slow Motion with AI - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/transforming-standard-video-into-slow-motion-with-ai/)
+2. [NVIDIA has Open Sourced an Impressive Video to Video Translation Technique](https://www.analyticsvidhya.com/blog/2018/08/nvidia-open-sourced-video-to-video-translation-pytorch/)
 
 
 ## Miscellaneous
@@ -354,6 +363,8 @@
 16. [Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization](https://arxiv.org/abs/1805.12302)
 17. [1803.09820.pdf](https://arxiv.org/pdf/1803.09820.pdf)
 18. [Show, Attend and Tell: Neural Image CaptionGeneration with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
+19. [1512.03385.pdf](https://arxiv.org/pdf/1512.03385.pdf)
+20. [https://arxiv.org/pdf/1712.09913.pdf](https://arxiv.org/pdf/1712.09913.pdf)
 
 
 ## Playgrounds
