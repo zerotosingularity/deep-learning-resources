@@ -37,6 +37,7 @@
 27. [Resources From Courses](#resources-from-courses)
 28. [Tips](#tips)
 29. [Tools](#tools)
+30. [Videos](#videos)
 
 
 ## Benchmarking
@@ -367,6 +368,8 @@
 20. [https://arxiv.org/pdf/1712.09913.pdf](https://arxiv.org/pdf/1712.09913.pdf)
 21. [https://arxiv.org/pdf/1603.07285.pdf](https://arxiv.org/pdf/1603.07285.pdf)
 22. [[1505.04597] U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+23. [[1603.05027] Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
+24. [[1712.09913] Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 
 
 ## Playgrounds
@@ -478,5 +481,10 @@
 4. [Announcing NVIDIA DALI and NVIDIA nvJPEG - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/announcing-nvidia-dali-and-nvidia-nvjpeg/)
 5. [NVIDIA Releases TensorRT 4 - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/nvidia-releases-tensorrt-4/)
 6. [lutzroeder/netron: Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/netron)
+
+
+## Videos
+
+1. [(11) Transfer Learning for RL tasks via GANs - Road Fighter - YouTube](https://www.youtube.com/watch?v=khtS-VjpOEA&fbclid=IwAR0fOYtaBnuMD_Bt1p_0rncx2T5QYOt4D33C6GptVRODWvUYv0Yl24WXQ1I)
 
 
