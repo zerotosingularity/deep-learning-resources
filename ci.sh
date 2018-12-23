@@ -1,10 +1,11 @@
 #!/bin/bash
 
-cd scripts
-python generate_dlr.py
+#cd scripts
+#python generate_dlr.py
 
-cd ..
+./generate.sh
+
+git status
 git add .
 git commit -m "update readme"
 git push origin
-

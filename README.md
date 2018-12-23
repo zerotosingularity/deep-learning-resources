@@ -74,6 +74,7 @@
 21. [ML⚡️DL — AI to Hell! – Medium](https://medium.com/louis-dorard)
 22. [Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/)
 23. [Papers with Code : the latest in machine learning](https://www.paperswithcode.com/?fbclid=IwAR0RXOvf6hVcH0jayNxqeRpYXtI5iW3pHJP4AucSi5a7bDh_ifAr5Wi-t3k)
+24. [Tim Dettmers — Making deep learning accessible.](http://timdettmers.com/)
 
 
 ## Books
@@ -370,6 +371,7 @@
 22. [[1505.04597] U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 23. [[1603.05027] Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
 24. [[1712.09913] Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
+25. [[1810.04805v1] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v1)
 
 
 ## Playgrounds
