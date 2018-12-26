@@ -88,6 +88,7 @@
 7. [Manning | Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
 8. [Manning | Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
 9. [Manning | GANs in Action](https://www.manning.com/books/gans-in-action)
+10. [Top 10 Books on NLP and Text Analysis – sciforce – Medium](https://medium.com/sciforce/top-10-books-on-nlp-and-text-analysis-8393a9fd3f49?fbclid=IwAR2CTes6LHICaBoG9lEFRGtJKv1uksbtyXCtE1VCwuAChFW4AZgd7jG39gI)
 
 
 ## Build Your Own Dl Machine
