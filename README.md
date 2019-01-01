@@ -251,6 +251,7 @@
 45. [zaidalyafeai/Notebooks: Machine learning notebooks in different subjects optimized to run in google collaboratory](https://github.com/zaidalyafeai/Notebooks)
 46. [facebookresearch/DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/DensePose)
 47. [NVIDIA/vid2vid: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.](https://github.com/NVIDIA/vid2vid)
+48. [floydhub/dl-setup: Instructions for setting up the software on your deep learning machine](https://github.com/floydhub/dl-setup)
 
 
 ## Infrastructure
