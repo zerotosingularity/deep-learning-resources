@@ -22,22 +22,23 @@
 12. [Infrastructure](#infrastructure)
 13. [Journalism](#journalism)
 14. [Jupyter Notebooks](#jupyter-notebooks)
-15. [Math & Statistics](#math-&-statistics)
-16. [Media](#media)
-17. [Miscellaneous](#miscellaneous)
-18. [Models](#models)
-19. [Nlp](#nlp)
-20. [Online Courses](#online-courses)
-21. [Papers](#papers)
-22. [Playgrounds](#playgrounds)
-23. [Python Libraries](#python-libraries)
-24. [Reinforcement Learning](#reinforcement-learning)
-25. [Research](#research)
-26. [Resnet](#resnet)
-27. [Resources From Courses](#resources-from-courses)
-28. [Tips](#tips)
-29. [Tools](#tools)
-30. [Videos](#videos)
+15. [Learning Rate](#learning-rate)
+16. [Math & Statistics](#math-&-statistics)
+17. [Media](#media)
+18. [Miscellaneous](#miscellaneous)
+19. [Models](#models)
+20. [Nlp](#nlp)
+21. [Online Courses](#online-courses)
+22. [Papers](#papers)
+23. [Playgrounds](#playgrounds)
+24. [Python Libraries](#python-libraries)
+25. [Reinforcement Learning](#reinforcement-learning)
+26. [Research](#research)
+27. [Resnet](#resnet)
+28. [Resources From Courses](#resources-from-courses)
+29. [Tips](#tips)
+30. [Tools](#tools)
+31. [Videos](#videos)
 
 
 ## Benchmarking
@@ -273,6 +274,13 @@
 2. [Jupyter Docker Deploy](https://github.com/jupyterhub/jupyterhub-deploy-docker)
 
 
+## Learning Rate
+
+1. [Finding Good Learning Rate and The One Cycle Policy.](https://medium.com/@nachiket.tanksale/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)
+2. [[1803.09820] A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820)
+3. [Another data science student's blog – The 1cycle policy](https://sgugger.github.io/the-1cycle-policy.html)
+
+
 ## Math & Statistics
 
 1. [Hands-on Machine Learning with Scikit-Learn and Tensorflow - Aurélien Géron (3/2017)](http://shop.oreilly.com/product/0636920052289.do)
@@ -373,6 +381,7 @@
 23. [[1603.05027] Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
 24. [[1712.09913] Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 25. [[1810.04805v1] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v1)
+26. [[1803.09820] A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820)
 
 
 ## Playgrounds
