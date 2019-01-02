@@ -252,6 +252,8 @@
 46. [facebookresearch/DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/DensePose)
 47. [NVIDIA/vid2vid: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.](https://github.com/NVIDIA/vid2vid)
 48. [floydhub/dl-setup: Instructions for setting up the software on your deep learning machine](https://github.com/floydhub/dl-setup)
+49. [deep_learning_object_detection/README.md at master · hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection/blob/master/README.md?fbclid=IwAR1tJeD4WyMML2QnY2767dMhUoGzceq1o7fKH5Nek5ZgD53veJ_2aEgxEkg)
+50. [yunjey/pytorch-tutorial: PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
 
 
 ## Infrastructure
