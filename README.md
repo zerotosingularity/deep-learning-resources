@@ -355,6 +355,8 @@
 19. [Artificial Intelligence (AI) | edX](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-2)
 20. [Artificial Intelligence A-Z™: Learn How To Build An AI | Udemy](https://www.udemy.com/artificial-intelligence-az/?siteID=vedj0cWlu2Y-VWiOKji3DFYtzMo7Xm54ww&LSNPUBID=vedj0cWlu2Y)
 21. [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+22. [CS 188: Introduction to Artificial Intelligence, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
+23. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 
 
 ## Papers
