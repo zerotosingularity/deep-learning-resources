@@ -263,6 +263,7 @@
 51. [cvhciKIT/sloth: Sloth is a tool for labeling image and video data for computer vision research.](https://github.com/cvhciKIT/sloth)
 52. [awslabs/ec2-spot-labs: Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.](https://github.com/awslabs/ec2-spot-labs)
 53. [omarsar/nlp_overview: Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
+54. [CSAILVision/LabelMeAnnotationTool: Source code for the LabelMe annotation tool.](https://github.com/CSAILVision/LabelMeAnnotationTool)
 
 
 ## Infrastructure
