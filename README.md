@@ -29,21 +29,13 @@
 
 ## Blogs
 
-1. [ML⚡️DL — AI to Hell! – Medium](https://medium.com/louis-dorard)
-2. [Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/)
-3. [Papers with Code : the latest in machine learning](https://www.paperswithcode.com/?fbclid=IwAR0RXOvf6hVcH0jayNxqeRpYXtI5iW3pHJP4AucSi5a7bDh_ifAr5Wi-t3k)
-4. [Tim Dettmers — Making deep learning accessible.](http://timdettmers.com/)
+1. [Papers with Code : the latest in machine learning](https://www.paperswithcode.com/?fbclid=IwAR0RXOvf6hVcH0jayNxqeRpYXtI5iW3pHJP4AucSi5a7bDh_ifAr5Wi-t3k)
+2. [Tim Dettmers — Making deep learning accessible.](http://timdettmers.com/)
 
 
 ## Books
 
-1. [Manning | Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
-2. [Manning | Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
-3. [Manning | Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
-4. [Manning | Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
-5. [Manning | Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
-6. [Manning | GANs in Action](https://www.manning.com/books/gans-in-action)
-7. [Top 10 Books on NLP and Text Analysis – sciforce – Medium](https://medium.com/sciforce/top-10-books-on-nlp-and-text-analysis-8393a9fd3f49?fbclid=IwAR2CTes6LHICaBoG9lEFRGtJKv1uksbtyXCtE1VCwuAChFW4AZgd7jG39gI)
+1. [Top 10 Books on NLP and Text Analysis – sciforce – Medium](https://medium.com/sciforce/top-10-books-on-nlp-and-text-analysis-8393a9fd3f49?fbclid=IwAR2CTes6LHICaBoG9lEFRGtJKv1uksbtyXCtE1VCwuAChFW4AZgd7jG39gI)
 
 
 ## Gan
@@ -96,17 +88,11 @@
 
 ## Nlp
 
-1. [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-bert/)
-2. [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)
-3. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-transformer/)
-4. [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-5. [Dissecting BERT Part 1: The Encoder – Dissecting BERT – Medium](https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3)
-6. [Dissecting BERT Appendix: The Decoder – Dissecting BERT – Medium](https://medium.com/dissecting-bert/dissecting-bert-appendix-the-decoder-3b86f66b0e5f)
-7. [The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0?fbclid=IwAR2tjdc8780h5TrD0wDXAu1lpxfhoPy_qK_VqCIl8ShU7mG_I0AbmGpotW8)
-8. [A Brief Overview of Attention Mechanism – SyncedReview – Medium](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
-9. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-10. [Google AI Blog: Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
-11. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-transformer/)
+1. [The fall of RNN / LSTM – Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0?fbclid=IwAR2tjdc8780h5TrD0wDXAu1lpxfhoPy_qK_VqCIl8ShU7mG_I0AbmGpotW8)
+2. [A Brief Overview of Attention Mechanism – SyncedReview – Medium](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
+3. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+4. [Google AI Blog: Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
+5. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-transformer/)
 
 
 ## Online Courses
