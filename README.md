@@ -35,12 +35,13 @@
 25. [Playgrounds](#playgrounds)
 26. [Python Libraries](#python-libraries)
 27. [Reinforcement Learning](#reinforcement-learning)
-28. [Research](#research)
-29. [Resnet](#resnet)
-30. [Resources From Courses](#resources-from-courses)
-31. [Tips](#tips)
-32. [Tools](#tools)
-33. [Videos](#videos)
+28. [Reproducible Ai](#reproducible-ai)
+29. [Research](#research)
+30. [Resnet](#resnet)
+31. [Resources From Courses](#resources-from-courses)
+32. [Tips](#tips)
+33. [Tools](#tools)
+34. [Videos](#videos)
 
 
 ## Aws
@@ -148,6 +149,7 @@
 10. [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 11. [fast.ai Datasets](https://course.fast.ai/datasets)
 12. [Tencent/tencent-ml-images: Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images?fbclid=IwAR15yoA39hFCerSTGJw4BIeGoF0lx--5WCUH-H_jGg-Nx5E05aubInAubrk)
+13. [ImageNet Large Scale Visual Recognition Competition 2012 (ILSVRC2012)](http://www.image-net.org/challenges/LSVRC/2012/nonpub-downloads)
 
 
 ## Docker
@@ -268,6 +270,7 @@
 53. [omarsar/nlp_overview: Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
 54. [CSAILVision/LabelMeAnnotationTool: Source code for the LabelMe annotation tool.](https://github.com/CSAILVision/LabelMeAnnotationTool)
 55. [DeepMind](https://github.com/deepmind)
+56. [NVIDIA/FastPhotoStyle: Style transfer, deep learning, feature transform](https://github.com/NVIDIA/FastPhotoStyle?fbclid=IwAR08PQZjI7UGCtbiZyCok0HOEqB0_C_mRsa2ZZ_C1MkKtvk-429HZRQ0t5k)
 
 
 ## Infrastructure
@@ -329,6 +332,7 @@
 ## Mobile
 
 1. [imxieyi/CoreML-MPS: Run compiled CoreML(v1) model using MPSNN](https://github.com/imxieyi/CoreML-MPS)
+2. [Espresso | A minimal iOS neural network framework](http://codinfox.github.io/espresso/proposal)
 
 
 ## Models
@@ -406,6 +410,7 @@
 24. [[1712.09913] Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 25. [[1810.04805v1] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v1)
 26. [[1803.09820] A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820)
+27. [[1802.06474] A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474?fbclid=IwAR0noZ0mjh70kqFE7xFmfSNGS-FnJp9b7lMeLxxfsQfjjrgk_Sq5w-jXdC8)
 
 
 ## Playgrounds
@@ -432,6 +437,14 @@
 1. [Reinforcement Learning from scratch – Insight Data](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
 2. [Spinning Up in Deep RL](https://blog.openai.com/spinning-up-in-deep-rl/)
 3. [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+4. [CS294-112 Fa18 11/14/18 - YouTube](https://www.youtube.com/watch?v=zVA5Pg8FVW4&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+5. [Open-source RL - Google Spreadsheets](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/edit#gid=0)
+6. [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+
+
+## Reproducible Ai
+
+1. [Towards Reproducible Research with PyTorch Hub | PyTorch](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/)
 
 
 ## Research
