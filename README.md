@@ -150,6 +150,7 @@
 11. [fast.ai Datasets](https://course.fast.ai/datasets)
 12. [Tencent/tencent-ml-images: Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images?fbclid=IwAR15yoA39hFCerSTGJw4BIeGoF0lx--5WCUH-H_jGg-Nx5E05aubInAubrk)
 13. [ImageNet Large Scale Visual Recognition Competition 2012 (ILSVRC2012)](http://www.image-net.org/challenges/LSVRC/2012/nonpub-downloads)
+14. [chrieke/awesome-satellite-imagery-datasets: List of satellite imagery datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 
 
 ## Docker
