@@ -30,18 +30,19 @@
 20. [Mobile](#mobile)
 21. [Models](#models)
 22. [Nlp](#nlp)
-23. [Online Courses](#online-courses)
-24. [Papers](#papers)
-25. [Playgrounds](#playgrounds)
-26. [Python Libraries](#python-libraries)
-27. [Reinforcement Learning](#reinforcement-learning)
-28. [Reproducible Ai](#reproducible-ai)
-29. [Research](#research)
-30. [Resnet](#resnet)
-31. [Resources From Courses](#resources-from-courses)
-32. [Tips](#tips)
-33. [Tools](#tools)
-34. [Videos](#videos)
+23. [Ocr](#ocr)
+24. [Online Courses](#online-courses)
+25. [Papers](#papers)
+26. [Playgrounds](#playgrounds)
+27. [Python Libraries](#python-libraries)
+28. [Reinforcement Learning](#reinforcement-learning)
+29. [Reproducible Ai](#reproducible-ai)
+30. [Research](#research)
+31. [Resnet](#resnet)
+32. [Resources From Courses](#resources-from-courses)
+33. [Tips](#tips)
+34. [Tools](#tools)
+35. [Videos](#videos)
 
 
 ## Aws
@@ -354,6 +355,11 @@
 9. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 10. [Google AI Blog: Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
 11. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-transformer/)
+
+
+## Ocr
+
+1. [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 
 
 ## Online Courses
