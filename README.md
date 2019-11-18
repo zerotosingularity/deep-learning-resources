@@ -17,32 +17,33 @@
 7. [Conferences](#conferences)
 8. [Datasets](#datasets)
 9. [Docker](#docker)
-10. [Frameworks](#frameworks)
-11. [Gan](#gan)
-12. [Github Repositories](#github-repositories)
-13. [Infrastructure](#infrastructure)
-14. [Journalism](#journalism)
-15. [Jupyter Notebooks](#jupyter-notebooks)
-16. [Learning Rate](#learning-rate)
-17. [Math & Statistics](#math-&-statistics)
-18. [Media](#media)
-19. [Miscellaneous](#miscellaneous)
-20. [Mobile](#mobile)
-21. [Models](#models)
-22. [Nlp](#nlp)
-23. [Ocr](#ocr)
-24. [Online Courses](#online-courses)
-25. [Papers](#papers)
-26. [Playgrounds](#playgrounds)
-27. [Python Libraries](#python-libraries)
-28. [Reinforcement Learning](#reinforcement-learning)
-29. [Reproducible Ai](#reproducible-ai)
-30. [Research](#research)
-31. [Resnet](#resnet)
-32. [Resources From Courses](#resources-from-courses)
-33. [Tips](#tips)
-34. [Tools](#tools)
-35. [Videos](#videos)
+10. [Face Recognition](#face-recognition)
+11. [Frameworks](#frameworks)
+12. [Gan](#gan)
+13. [Github Repositories](#github-repositories)
+14. [Infrastructure](#infrastructure)
+15. [Journalism](#journalism)
+16. [Jupyter Notebooks](#jupyter-notebooks)
+17. [Learning Rate](#learning-rate)
+18. [Math & Statistics](#math-&-statistics)
+19. [Media](#media)
+20. [Miscellaneous](#miscellaneous)
+21. [Mobile](#mobile)
+22. [Models](#models)
+23. [Nlp](#nlp)
+24. [Ocr](#ocr)
+25. [Online Courses](#online-courses)
+26. [Papers](#papers)
+27. [Playgrounds](#playgrounds)
+28. [Python Libraries](#python-libraries)
+29. [Reinforcement Learning](#reinforcement-learning)
+30. [Reproducible Ai](#reproducible-ai)
+31. [Research](#research)
+32. [Resnet](#resnet)
+33. [Resources From Courses](#resources-from-courses)
+34. [Tips](#tips)
+35. [Tools](#tools)
+36. [Videos](#videos)
 
 
 ## Aws
@@ -161,6 +162,11 @@
 3. [Explore - Docker Hub](https://hub.docker.com/explore/)
 4. [Use nvidia-docker to create awesome Deep Learning Environments for R (or Python) PT I – Kai Lichtenberg](https://klichtenberg.com/?p=151)
 5. [Docker Tutorial 5: Nvidia-Docker 2.0 Installation in Ubuntu 18.04](https://medium.com/@sh.tsang/docker-tutorial-5-nvidia-docker-2-0-installation-in-ubuntu-18-04-cb80f17cac65)
+
+
+## Face Recognition
+
+1. [ageitgey/face_recognition: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 
 
 ## Frameworks
@@ -447,6 +453,7 @@
 4. [CS294-112 Fa18 11/14/18 - YouTube](https://www.youtube.com/watch?v=zVA5Pg8FVW4&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
 5. [Open-source RL - Google Spreadsheets](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/edit#gid=0)
 6. [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+7. [Open-source RL](https://docs.google.com/spreadsheets/u/1/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/htmlview?urp=gmail_link)
 
 
 ## Reproducible Ai
