@@ -35,15 +35,16 @@
 25. [Online Courses](#online-courses)
 26. [Papers](#papers)
 27. [Playgrounds](#playgrounds)
-28. [Python Libraries](#python-libraries)
-29. [Reinforcement Learning](#reinforcement-learning)
-30. [Reproducible Ai](#reproducible-ai)
-31. [Research](#research)
-32. [Resnet](#resnet)
-33. [Resources From Courses](#resources-from-courses)
-34. [Tips](#tips)
-35. [Tools](#tools)
-36. [Videos](#videos)
+28. [Podcast](#podcast)
+29. [Python Libraries](#python-libraries)
+30. [Reinforcement Learning](#reinforcement-learning)
+31. [Reproducible Ai](#reproducible-ai)
+32. [Research](#research)
+33. [Resnet](#resnet)
+34. [Resources From Courses](#resources-from-courses)
+35. [Tips](#tips)
+36. [Tools](#tools)
+37. [Videos](#videos)
 
 
 ## Aws
@@ -424,6 +425,8 @@
 25. [[1810.04805v1] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v1)
 26. [[1803.09820] A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820)
 27. [[1802.06474] A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474?fbclid=IwAR0noZ0mjh70kqFE7xFmfSNGS-FnJp9b7lMeLxxfsQfjjrgk_Sq5w-jXdC8)
+28. [Not All Samples Are Created Equal: Deep Learning with Importance Sampling](https://arxiv.org/pdf/1803.00942.pdf)
+29. [1911.07658v1.pdf](https://arxiv.org/pdf/1911.07658v1.pdf)
 
 
 ## Playgrounds
@@ -433,6 +436,11 @@
 3. [Google Collab](https://colab.research.google.com/)
 4. [Azure Notebooks](https://notebooks.azure.com/)
 5. [Seedbank](http://tools.google.com/seedbank/)
+
+
+## Podcast
+
+1. [Artificial Intelligence Podcast | AI Podcast | Lex Fridman](https://lexfridman.com/ai/)
 
 
 ## Python Libraries
