@@ -362,6 +362,7 @@
 9. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 10. [Google AI Blog: Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
 11. [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-transformer/)
+12. [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/)
 
 
 ## Ocr
@@ -394,6 +395,10 @@
 21. [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 22. [CS 188: Introduction to Artificial Intelligence, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
 23. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+24. [Agoria Academy: Deep Learning Day](https://www.agoria.be/nl/Agoria-Academy-Deep-Learning-Day)
+25. [Agoria Academy: Deep Learning Day](https://www.agoria.be/nl/Agoria-Academy-Deep-Learning-Day-225838)
+26. [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning)
+27. [Stanford CS 224N | Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 
 ## Papers
